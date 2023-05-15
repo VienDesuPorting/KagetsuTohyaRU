@@ -12,7 +12,7 @@ translate russian strings:
 
     # game/setup/save_load.rpy:72
     old "{#file_time}%A | %b %d %Y %H:%M"
-    new ""
+    new "{#file_time}%A | %b %d %Y %H:%M"
 
     # game/setup/save_load.rpy:72
     old "empty slot"

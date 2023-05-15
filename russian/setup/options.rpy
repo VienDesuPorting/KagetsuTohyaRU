@@ -4,5 +4,5 @@ translate russian strings:
 
     # game/setup/options.rpy:16
     old "Kagetsu Tohya En"
-    new ""
+    new "Kagetsu Tohya Ru"
 

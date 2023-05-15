@@ -1176,17 +1176,16 @@ translate russian strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new ""
+    new "Открыть папку [текст]"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new ""
+    new "звук, когда свёрнуто"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
     new "основной звук"
 
     # renpy/common/00preferences.rpy:531
-    old ""
-    new ""
-
+    old "mute main"
+    new "заглушить звук"
