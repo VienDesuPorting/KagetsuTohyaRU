@@ -1170,3 +1170,23 @@ translate russian strings:
     old "Parsing the script failed."
     new "Обработка сценария завершилась неудачно."
 
+# TODO: Translation updated at 2023-05-15 17:36
+
+translate russian strings:
+
+    # renpy/common/00action_other.rpy:703
+    old "Open [text] directory."
+    new ""
+
+    # renpy/common/00preferences.rpy:507
+    old "audio when minimized"
+    new ""
+
+    # renpy/common/00preferences.rpy:527
+    old "main volume"
+    new "основной звук"
+
+    # renpy/common/00preferences.rpy:531
+    old ""
+    new ""
+
