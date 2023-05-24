@@ -2,7 +2,7 @@
 Russian Translation for Kagesu Tohya Visual Novel
 ### Progress
 
- - [ ] scenario/choice.rpy - **0%**
+ - [x] scenario/choice.rpy - **30%**
  - [ ] scenario/sc_en.rpy - **0%**
  - [ ] scenario/setup.rpy - **0%**
  - [x] setup/gallery.rpy - **100%**
