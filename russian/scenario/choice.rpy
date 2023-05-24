@@ -42,7 +42,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:57
     old " 4. Maybe I'll invade the Inui house?"
-    new "Может быть, я вторгнусь в дом Инуи?"
+    new "Может быть я вторгнусь в дом Инуи?"
 
     # game/scenario/choice.rpy:71
     old " 1. Peacefully go to school."
@@ -74,19 +74,19 @@ translate russian strings:
 
     # game/scenario/choice.rpy:173
     old " 2. I'll go straight to class."
-    new ""
+    new "Я сразу пойду в класс"
 
     # game/scenario/choice.rpy:173
     old " 3. Maybe I'll drop by the courtyard?"
-    new ""
+    new "Может быть заглянуть во двор?"
 
     # game/scenario/choice.rpy:240
     old " 1. Eat at the cafeteria!"
-    new ""
+    new "Ешьте в кафетерии!"
 
     # game/scenario/choice.rpy:240
     old " 2. Steal some from Senpai in the tea room!"
-    new ""
+    new "Украсть немного у Сэнпай в чайной комнате!"
 
     # game/scenario/choice.rpy:240
     old " 3. Eat peacefully in the courtyard!"
@@ -94,167 +94,167 @@ translate russian strings:
 
     # game/scenario/choice.rpy:299
     old " 1. I'll eat lunch with Akiha."
-    new ""
+    new "Я пообедаю с Акихой"
 
     # game/scenario/choice.rpy:299
     old " 2. I'll eat lunch alone."
-    new ""
+    new "Я пообедаю один"
 
     # game/scenario/choice.rpy:360
     old " 1. I'll skip class."
-    new ""
+    new "Я не пойду на занятия"
 
     # game/scenario/choice.rpy:360
     old " 2. No, I must attend class diligently."
-    new ""
+    new "Нет, я должен прилежно посещать занятия."
 
     # game/scenario/choice.rpy:389
     old " 1. Drop by the tea room."
-    new ""
+    new "Заглянуть в чайную комнату"
 
     # game/scenario/choice.rpy:389
     old " 2. Stay in the classroom."
-    new ""
+    new "Оставаться в классе"
 
     # game/scenario/choice.rpy:389
     old " 3. Go straight home."
-    new ""
+    new "Идти домой."
 
     # game/scenario/choice.rpy:400
     old " 4. Go out into the street."
-    new ""
+    new "Выйти на улицу."
 
     # game/scenario/choice.rpy:459
     old " 1. Go home with Akiha."
-    new ""
+    new "Идти домой с Акихой."
 
     # game/scenario/choice.rpy:459
     old " 2. Go home alone."
-    new ""
+    new "Идти домой одному."
 
     # game/scenario/choice.rpy:490
     old " 1. Stay in my room."
-    new ""
+    new "Оставаться в своей комнате."
 
     # game/scenario/choice.rpy:490
     old " 2. Go visit Akiha's room."
-    new ""
+    new "Зайти в комнату Акихи."
 
     # game/scenario/choice.rpy:490
     old " 3. Chat with Hisui."
-    new ""
+    new "Поговорить с Хисуи."
 
     # game/scenario/choice.rpy:490
     old " 4. Go visit Kohaku-san's room."
-    new ""
+    new "Зайти в комнату Кохаку-сан."
 
     # game/scenario/choice.rpy:517
     old " 1. | Forget it| I'll end up dying if I act hastily."
-    new ""
+    new "Забудь об этом. Я умру если буду действовать поспешно."
 
     # game/scenario/choice.rpy:517
     old " 2. | Just a little won't hurt, will it?"
-    new ""
+    new "Немного не повредит, правда?"
 
     # game/scenario/choice.rpy:644
     old " 1. The murder cases that have been happening."
-    new ""
+    new "Случаи убийств которые происходят"
 
     # game/scenario/choice.rpy:644
     old " 2. The hallucinations of the end of the world."
-    new ""
+    new "Галлюцинации о конце света."
 
     # game/scenario/choice.rpy:644
     old " 3. Something that I'm forgetting."
-    new ""
+    new "Что-то я забываю."
 
     # game/scenario/choice.rpy:655
     old " 4. Extermination of the cat demon in the detached building."
-    new ""
+    new "Уничтожить кошачьего демона в соседнем здании."
 
     # game/scenario/choice.rpy:668
     old " 4. Taking a stroll on the night streets."
-    new ""
+    new "Прогуляться по ночным улицам."
 
     # game/scenario/choice.rpy:681
     old " 4. | Eh? Another dream?"
-    new ""
+    new "А? Ещё один сон?"
 
     # game/scenario/choice.rpy:694
     old " 5. Taking a stroll on the night streets."
-    new ""
+    new "Прогуляться по ночным улицам."
 
     # game/scenario/choice.rpy:709
     old " 5. | Eh? Another dream?"
-    new ""
+    new "А? Ещё один сон?"
 
     # game/scenario/choice.rpy:739
     old " 6. | Eh? Another dream?"
-    new ""
+    new "А? Ещё один сон?"
 
     # game/scenario/choice.rpy:862
     old " 1. It must be Arcueid."
-    new ""
+    new "Это, должно быть, Арквейд."
 
     # game/scenario/choice.rpy:862
     old " 2. It could be Ciel-senpai."
-    new ""
+    new "Это может быть Сиель-сэнпай."
 
     # game/scenario/choice.rpy:862
     old " 3. Akiha is a possibility."
-    new ""
+    new "Акиха - вполне возможно."
 
     # game/scenario/choice.rpy:862
     old " 4. Could be Hisui."
-    new ""
+    new "Это может быть Хисуи.
 
     # game/scenario/choice.rpy:862
     old " 5. Maybe Kohaku-san."
-    new ""
+    new "Может быть, Кохаку-сан."
 
     # game/scenario/choice.rpy:862
     old " 6. | For some reason that child pops up in my head."
-    new ""
+    new "По какой-то причине этот ребёнок всплывает в моей голове."
 
     # game/scenario/choice.rpy:862
     old " 7. How about both Kohaku-san and Hisui?"
-    new ""
+    new "Как насчет Кохаку-сан и Хисуи?"
 
     # game/scenario/choice.rpy:879
     old " 6. How about both Kohaku-san and Hisui?"
-    new ""
+    new "Как насчет Кохаку-сан и Хисуи?"
 
     # game/scenario/choice.rpy:938
     old " 1. It's just another day."
-    new ""
+    new "Это просто ещё один день."
 
     # game/scenario/choice.rpy:938
     old " 2. No, it's the day of the cultural festival!"
-    new ""
+    new "Нет, это день культурного фестиваля!"
 
     # game/scenario/choice.rpy:947
     old " 3. Was it| the athletic festival?"
-    new ""
+    new "Это был спортивный фестиваль?"
 
     # game/scenario/choice.rpy:958
     old " 2. Was it| the athletic festival?"
-    new ""
+    new "Это был спортивный фестиваль?"
 
     # game/scenario/choice.rpy:967
     old " 1. Runaway Tea House 'Low Kick.'"
-    new ""
+    new "Чайный домик 'Лоу-Кик.'"
 
     # game/scenario/choice.rpy:967
     old " 2. Costume Rental and Photography 'Marble Phantasm.'"
-    new ""
+    new "Прокат костюмов и фотосъемка 'Мраморный фантом'."
 
     # game/scenario/choice.rpy:967
-    old " 3. Mysterious Movie Theater 'Planetarium.'"
-    new ""
+    old " 3. Mysterious Movie Theater 'Planetarium.'."
+    new "Таинственный кинотеатр 'Планетарий'."
 
     # game/scenario/choice.rpy:1002
     old " 1. Fourth floor, first year class."
-    new ""
+    new "Четвёртый этаж, класс первого года обучения."
 
     # game/scenario/choice.rpy:1002
     old " 2. Third floor, second year class."
