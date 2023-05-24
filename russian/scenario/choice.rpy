@@ -4,13 +4,13 @@
 translate russian f232_679b0cc4:
 
     # " How did you get here?"
-    ""
+    "Как вы сюда попали?"
 
 # game/scenario/choice.rpy:1048
 translate russian f232_eebb28d4:
 
     # " This is an error|"
-    ""
+    "Это ошибка"
 
 # game/scenario/choice.rpy:1049
 translate russian f232_76b2fe88:
@@ -22,39 +22,39 @@ translate russian strings:
 
     # game/scenario/choice.rpy:43
     old " 1. Go to school."
-    new ""
+    new "Идти в школу"
 
     # game/scenario/choice.rpy:43
     old " 2. Stay at the mansion."
-    new ""
+    new "Отстаться в особняке"
 
     # game/scenario/choice.rpy:57
     old " 1. To Arcueid's apartment."
-    new ""
+    new "В квартиру Арквейд"
 
     # game/scenario/choice.rpy:57
     old " 2. To Ciel-senpai's apartment."
-    new ""
+    new "В квартиру Сиель-сэнпай"
 
     # game/scenario/choice.rpy:57
     old " 3. Straight to school."
-    new ""
+    new "Прямиком в школу"
 
     # game/scenario/choice.rpy:57
     old " 4. Maybe I'll invade the Inui house?"
-    new ""
+    new "Может быть, я вторгнусь в дом Инуи?"
 
     # game/scenario/choice.rpy:71
     old " 1. Peacefully go to school."
-    new ""
+    new "Спокойно идти в школу"
 
     # game/scenario/choice.rpy:71
     old " 2. Chat with Arcueid a little more."
-    new ""
+    new "Пообщайтесь с Арквейд ещё немного"
 
     # game/scenario/choice.rpy:81
     old " 1. | I mustn't be swayed."
-    new ""
+    new "Я не должен поддаваться"
 
     # game/scenario/choice.rpy:81
     old " 2. | No, I want to be swayed."
@@ -62,15 +62,15 @@ translate russian strings:
 
     # game/scenario/choice.rpy:133
     old " 1. Go to school with Akiha."
-    new ""
+    new "Идти в школу с Акихой"
 
     # game/scenario/choice.rpy:133
     old " 2. Go to school alone."
-    new ""
+    new "Идти в школу одному"
 
     # game/scenario/choice.rpy:173
     old " 1. I'll stop by the Tea Ceremony Club room."
-    new ""
+    new "Я зайду в комнату клуба Чайная церемония."
 
     # game/scenario/choice.rpy:173
     old " 2. I'll go straight to class."
