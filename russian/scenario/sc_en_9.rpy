@@ -4849,7 +4849,7 @@ translate russian s511_0af6a5fa_2:
 translate russian s511_9bba0f59:
 
     # " If it's not vitality, I don't want it| {w=1.0}{nw}"
-    " Если это не жизненная сила, мне это не нужно| {w=1,0}{nw}"
+    " Если это не жизненная сила, мне это не нужно| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:29676
 translate russian s511_0af6a5fa_3:
 

@@ -8112,12 +8112,12 @@ translate russian s37_0af6a5fa_9:
 translate russian s37_3e4cd39b:
 
     # "------Well, that is| {w=1.0}{nw}"
-    "------Ну, то есть| {w=1,0}{nw}"
+    "------Ну, то есть| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:3496
 translate russian s37_5b5395b2:
 
     # " \ \ \ \ \ \ \ \ \ \ \ I can't even remember| {w=1.0}{nw}"
-    " \ \ \ \ \ \ \ \ \ \ \ Я даже не помню| {w=1,0}{nw}"
+    " \ \ \ \ \ \ \ \ \ \ \ Я даже не помню| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:3497
 translate russian s37_57c6f98f:
 

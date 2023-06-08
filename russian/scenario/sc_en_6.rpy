@@ -7338,7 +7338,7 @@ translate russian s227_0af6a5fa:
 translate russian s227_3dae5783:
 
     # " All right|{w} rock, paper, scissors! {w=1.0}{nw}"
-    " Хорошо|{w} камень, ножницы, бумага! {w=1,0}{nw}"
+    " Хорошо|{w} камень, ножницы, бумага! {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:21814
 translate russian s227_0af6a5fa_1:
 

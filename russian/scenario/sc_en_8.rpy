@@ -8619,7 +8619,7 @@ translate russian s403_bc4c39cf:
 translate russian s403_f147c958:
 
     # " Then it could have been| {w=1.0}{nw}"
-    " Тогда это могло быть| {w=1,0}{nw}"
+    " Тогда это могло быть| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:28095
 translate russian s403_64eb0c9e:
 

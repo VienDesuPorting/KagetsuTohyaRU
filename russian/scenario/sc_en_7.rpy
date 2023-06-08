@@ -1968,7 +1968,7 @@ translate russian s236_0af6a5fa_4:
 translate russian s236_9cd56c8f:
 
     # " Ah, damn it|{w} why'd it get so noisy compared to a while ago.{w} Who cares about other things like Kohaku or someone when one's contemplating the best way to enjoy| {w=1.0}{nw}"
-    " Ах, черт возьми|{w} почему'd стало так шумно по сравнению с тем, что было недавно.{w} Кого волнуют другие вещи, такие как Кохаку или кто-то еще, когда кто-то обдумывает, как лучше всего развлечься| {w=1,0}{nw}"
+    " Ах, черт возьми|{w} почему'd стало так шумно по сравнению с тем, что было недавно.{w} Кого волнуют другие вещи, такие как Кохаку или кто-то еще, когда кто-то обдумывает, как лучше всего развлечься| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:23032
 translate russian s236_0af6a5fa_5:
 

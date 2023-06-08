@@ -1199,7 +1199,7 @@ translate russian s521_7f236ed2:
 translate russian s521_d14afe76:
 
     # " When I turn back, there is| {w=1.0}{nw}"
-    " Когда я вернусь, там будет| {w=1,0}{nw}"
+    " Когда я вернусь, там будет| {w=1.0}{nw}"
 # game/scenario/sc_en.rpy:31235
 translate russian s521_0af6a5fa:
 
