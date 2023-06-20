@@ -52,13 +52,13 @@ translate russian s1_0af6a5fa_6:
 translate russian s1_a5a032cb:
 
     # "--------I open my eyes from my slumber."
-    ""
+    "--------Я открыл сонные глаза."
 
 # game/scenario/sc_en.rpy:33
 translate russian s1_1bc18805:
 
     # " \ \ \ \ \ \ \ It seems morning has come."
-    ""
+    " \ \ \ \ \ \ \  Похоже, наступило утро."
 
 # game/scenario/sc_en.rpy:34
 translate russian s1_76b2fe88:
@@ -70,19 +70,19 @@ translate russian s1_76b2fe88:
 translate russian s1_69c6f07a:
 
     # " I wake up to a soft morning sunlight."
-    ""
+    " Я проснулся от мягкого утреннего солнечного света."
 
 # game/scenario/sc_en.rpy:42
 translate russian s1_c0e8cebe:
 
     # " Maybe I fell asleep quickly last night, but my body feels completely refreshed."
-    ""
+    " Возможно я рано уснул вчера, потому как чувствую себя полностью отдохнувшим."
 
 # game/scenario/sc_en.rpy:43
 translate russian s1_1a54eb51:
 
     # " It almost feels as if it's weird to wake up now."
-    ""
+    " Почти странно просыпаться прямо сейчас."
 
 # game/scenario/sc_en.rpy:44
 translate russian s1_b4fac766:
@@ -90,31 +90,31 @@ translate russian s1_b4fac766:
     # nvl clear
     # "\"Mmmmm.\""
     nvl clear
-    ""
+    "\"Ммммм.\""
 
 # game/scenario/sc_en.rpy:46
 translate russian s1_6c25fcb5:
 
     # " I stretch after propping my body up."
-    ""
+    " Я приподнимаюсь и потягиваюсь."
 
 # game/scenario/sc_en.rpy:47
 translate russian s1_7fec1e3d:
 
     # " The sun is an autumn one.{w} Not cold, not hot.{w} Just perfect."
-    ""
+    " Солне как осенью.{w} Не холодно, не жарко.{w} Просто идеально."
 
 # game/scenario/sc_en.rpy:48
 translate russian s1_000238c6:
 
     # " But I can tell from the stillness of the air that Hisui hasn't come yet."
-    ""
+    " По тишине витающей в воздухе могу сказать, что Хисуи ещё не пришла."
 
 # game/scenario/sc_en.rpy:49
 translate russian s1_624fb8f8:
 
     # " Hisui opens the door and goes out before I wake up.{w} And then, after a little while, she comes back to wake me up."
-    ""
+    " Обычно Хисуи открывает дверь и выходит до того как я проснусь.{w} А чуть позже она возвращается, чтобы разбудить меня."
 
 # game/scenario/sc_en.rpy:50
 translate russian s1_7e84ec41:
@@ -122,31 +122,31 @@ translate russian s1_7e84ec41:
     # nvl clear
     # "\"Then| I guess it's not seven o'clock yet.\""
     nvl clear
-    ""
+    "\"Тогда думаю ещё нет и семи часов.\""
 
 # game/scenario/sc_en.rpy:52
 translate russian s1_169e94ec:
 
     # " The clock tells me it's half past six.{w} It must be time for Hisui to come."
-    ""
+    " Часы говорили мне, что сейчас пол-сельмого.{w} Это время когда Хисуи приходит."
 
 # game/scenario/sc_en.rpy:53
 translate russian s1_94a94119:
 
     # "\"It's weird that I woke up before Hisui came.{w} I didn't do anything differently yesterday.\""
-    ""
+    "\"Странно, что я проснулся до того как пришла Хисуи.{w} Я не делал ничего необычного вчера.\""
 
 # game/scenario/sc_en.rpy:54
 translate russian s1_5c517283:
 
     # " Yesterday|{w} yesterday|"
-    ""
+    " Вчера{ц} вчера"
 
 # game/scenario/sc_en.rpy:55
 translate russian s1_fc80872f:
 
     # " I try to think of when I went to sleep, and all my thoughts stop."
-    ""
+    " Я пытаюсь вспомнить когда заснул, но все мои мысли останавливаются."
 
 # game/scenario/sc_en.rpy:56
 translate russian s1_fcb52b04:
@@ -154,31 +154,31 @@ translate russian s1_fcb52b04:
     # nvl clear
     # "\"| Eh?\""
     nvl clear
-    ""
+    "\"А?\""
 
 # game/scenario/sc_en.rpy:58
 translate russian s1_b566e495:
 
     # " Yesterday| what did I do yesterday|?"
-    ""
+    " Вчера, что я делал вчера?"
 
 # game/scenario/sc_en.rpy:59
 translate russian s1_0a6d07df:
 
     # " I don't remember what I did yesterday at all.{w} Maybe it's because yesterday was just another normal day.{w} But I can't even remember when I went to bed|{w} Something feels off."
-    ""
+    " Я вообще не помню что было вчера.{w} Может быть потому что вчера был очередной ничем не примечательный день.{w} Но я даже не могу вспомнить когда лёг спать.{w} Что-то не так."
 
 # game/scenario/sc_en.rpy:60
 translate russian s1_92033f44:
 
     # "\"Hold on, then| what did I do the day before yesterday?\""
-    ""
+    " Стоп, тогда что я делал позавчера?"
 
 # game/scenario/sc_en.rpy:61
 translate russian s1_baa516a1:
 
     # " I put my hand on my forehead and think."
-    ""
+    " Я положил руку на лоб и начал думать."
 
 # game/scenario/sc_en.rpy:62
 translate russian s1_c3a98c8a:
@@ -186,49 +186,49 @@ translate russian s1_c3a98c8a:
     # nvl clear
     # "\"------\""
     nvl clear
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:64
 translate russian s1_2328f00f:
 
     # " The day before yesterday|{w} Today's Wednesday|{w} so it must've been Monday."
-    ""
+    " Позавчера{w} Сегодня Среда{w} значит это был Понедельник"
 
 # game/scenario/sc_en.rpy:65
 translate russian s1_b01c389c:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:66
 translate russian s1_0db01b26:
 
     # " I must have gone to school, since it was a school day."
-    ""
+    " Скорее всего я ходил в школу, так как это учебный день."
 
 # game/scenario/sc_en.rpy:67
 translate russian s1_b01c389c_1:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:68
 translate russian s1_86f227b7:
 
     # " Then what did I do at school|"
-    ""
+    " Тогда что я делал в школе"
 
 # game/scenario/sc_en.rpy:69
 translate russian s1_b0de56c9:
 
     # "\"||||||\""
-    ""
+    "\"||||||\""
 
 # game/scenario/sc_en.rpy:70
 translate russian s1_f35da17b:
 
     # " Well, it must have been a day just like yesterday."
-    ""
+    " Чтож, видимо это был такой же день, как и вчерашний."
 
 # game/scenario/sc_en.rpy:71
 translate russian s1_79d82bf5:
@@ -236,43 +236,43 @@ translate russian s1_79d82bf5:
     # nvl clear
     # "\"|| Hey|\""
     nvl clear
-    ""
+    "\"Так\""
 
 # game/scenario/sc_en.rpy:73
 translate russian s1_c3abc61d:
 
     # " Maybe I'm not fully awake yet."
-    ""
+    " Может быть я не до конца проснулся."
 
 # game/scenario/sc_en.rpy:74
 translate russian s1_92389040:
 
     # " For some reason, when I try to remember, my mind turns blank."
-    ""
+    " Почему-то, когда я пытаюсь всё это вспоминать, моя голова пустеет."
 
 # game/scenario/sc_en.rpy:75
 translate russian s1_9dcbf016:
 
     # " What is this|{w} I can feel my current existence, but everything else is hard to grasp."
-    ""
+    " Что это такое{w}Я ощущаю моё текущее существование, но всё остальное трудно осознать."
 
 # game/scenario/sc_en.rpy:76
 translate russian s1_32aa0d9b:
 
     # "------No| maybe|"
-    ""
+    "------Нет, возможно"
 
 # game/scenario/sc_en.rpy:77
 translate russian s1_8c71c4c5:
 
     # " There's one thing."
-    ""
+    " Есть ещё кое что."
 
 # game/scenario/sc_en.rpy:78
 translate russian s1_ebff3e2f:
 
     # " It feels like I forgot something big| or I had something unspeakable happen to me|"
-    ""
+    " Мне кажется я забыл что-то важное или, возможно, со мной случилось что-то невообразимое"
 
 # game/scenario/sc_en.rpy:79
 translate russian s1_9bb493cc:
@@ -280,37 +280,37 @@ translate russian s1_9bb493cc:
     # nvl clear
     # "\"| It hurts|\""
     nvl clear
-    ""
+    "\"Больно\""
 
 # game/scenario/sc_en.rpy:81
 translate russian s1_2488d666:
 
     # " When I think hard, the back of my head hurts."
-    ""
+    " Когда я отчаянно пытаюсь что-то вспомнить, мой затылок начинает болеть."
 
 # game/scenario/sc_en.rpy:82
 translate russian s1_150071ed:
 
     # " I touch it, and there's a little bump."
-    ""
+    " Когда я касаюсь его, я обнаруживаю небольшую шишку."
 
 # game/scenario/sc_en.rpy:83
 translate russian s1_2b45ff7c:
 
     # "\"|?\""
-    ""
+    "\"?\""
 
 # game/scenario/sc_en.rpy:84
 translate russian s1_25695884:
 
     # " I think maybe I hit something while I was sleeping|{nw}"
-    ""
+    " Наверное я обо что-то ударился пока спал{nw}"
 
 # game/scenario/sc_en.rpy:87
 translate russian s1_ee9c2d6c:
 
     # " Knock, knock.{w} Someone's at the door."
-    ""
+    " Стук.{w} Кто-то у двери."
 
 # game/scenario/sc_en.rpy:88
 translate russian s1_76b2fe88_1:
@@ -322,49 +322,49 @@ translate russian s1_76b2fe88_1:
 translate russian s1_522a2fba:
 
     # "\"Excuse me, Shiki-sama.\""
-    ""
+    "\"Простите, Шики-сама.\""
 
 # game/scenario/sc_en.rpy:93
 translate russian s1_21f7c014:
 
     # " Whispering that, Hisui opens the door."
-    ""
+    " Прошептав это, Хисуи открыла дверь."
 
 # game/scenario/sc_en.rpy:94
 translate russian s1_99befc6f:
 
     # "\"Hey.{w} Did you sleep well, Hisui?\""
-    ""
+    "\"Хей.{w} Ты хорошо поспала, Хисуи?\""
 
 # game/scenario/sc_en.rpy:95
 translate russian s1_13bffe73:
 
     # " I wave my hand."
-    ""
+    " Я машу рукой."
 
 # game/scenario/sc_en.rpy:96
 translate russian s1_b0de56c9_1:
 
     # "\"||||||\""
-    ""
+    "\"||||||\""
 
 # game/scenario/sc_en.rpy:97
 translate russian s1_63c95f20:
 
     # " Hisui raises her eyebrows in surprise, and then|{nw}"
-    ""
+    " Хисуи подняла брови в удивлении и затем{nw}"
 
 # game/scenario/sc_en.rpy:101
 translate russian s1_3c0d2797:
 
     # "\"Good morning, Shiki-sama.\""
-    ""
+    "\"Доброе утро, Шики-сама.\""
 
 # game/scenario/sc_en.rpy:102
 translate russian s1_f2bd7f77:
 
     # " She quietly greets me."
-    ""
+    " Она тихо поприветствовала меня."
 
 # game/scenario/sc_en.rpy:103
 translate russian s1_76b2fe88_2:
@@ -376,19 +376,19 @@ translate russian s1_76b2fe88_2:
 translate russian s1_f6bfb826:
 
     # "\"You are awake today.{w} Then I'll bring your change of clothes immediately.{w} Please wait a moment.\""
-    ""
+    "\"Вы проснулись.{w} Тогда я немедленно принесу вашу спенную одежду.{w} Пожалуйста, подождите немного.\""
 
 # game/scenario/sc_en.rpy:115
 translate russian s1_d66e4237:
 
     # " Hisui walks out of the room as usual."
-    ""
+    " Хисуи как обычно вышла из комнаты."
 
 # game/scenario/sc_en.rpy:116
 translate russian s1_191ba422:
 
     # " | Well, since I can't even remember yesterday, I probably shouldn't be saying 'as usual.'"
-    ""
+    " Чтож, если я не могу вспомнить вчерашний день, наверное мне не следует говорить 'как обычно'"
 
 # game/scenario/sc_en.rpy:117
 translate russian s1_1ac6a201:
@@ -396,25 +396,25 @@ translate russian s1_1ac6a201:
     # nvl clear
     # "\"Ah, just a sec.{w} I have something to ask.\""
     nvl clear
-    ""
+    "\"Ах, секундочку.{w} Мне нужно кое-что спросить.\""
 
 # game/scenario/sc_en.rpy:122
 translate russian s1_2f9841ff:
 
     # "\"Yes, what is it, Shiki-sama?\""
-    ""
+    "\"Да, что такое Шики-сама?\""
 
 # game/scenario/sc_en.rpy:123
 translate russian s1_2dd8b6cc:
 
     # "\"Ah, it's nothing serious, but can you tell me what I did yesterday?\""
-    ""
+    "\"Ничего такого, но ты можешь сказать мне что я делал вчера?\""
 
 # game/scenario/sc_en.rpy:127
 translate russian s1_949bfdc3:
 
     # " Ah|{w} for some reason, she looks really uncomfortable."
-    ""
+    " Ох{w} по какой то причине она выглядит очень сконфуженной."
 
 # game/scenario/sc_en.rpy:128
 translate russian s1_286a2a55:
@@ -422,25 +422,25 @@ translate russian s1_286a2a55:
     # nvl clear
     # "\"Eh| you don't have to tell me in detail.{w} Tell me things like when I returned, what we had for dinner, whether Akiha got mad| things like that.\""
     nvl clear
-    ""
+    "\"Э, ты можешь не рассказывать детально.{w} Расскажи мне например когда я вернулся, что мы ели на ужин, сердилась ли Акиха или что-то в этом роде.\""
 
 # game/scenario/sc_en.rpy:133
 translate russian s1_b0de56c9_2:
 
     # "\"||||||\""
-    ""
+    "\"||||||\""
 
 # game/scenario/sc_en.rpy:134
 translate russian s1_5c101c03:
 
     # " Hisui bows her head apologetically.{w} Whether she really doesn't know, or my behaviour yesterday was extremely embarrassing, she looks really uncomfortable talking about it."
-    ""
+    " Хисуи склоняет голову в извинении.{w} Действительно ли она не знает, или моё поведение вчера попросту слишком смущающее, похоже ей и правда очень неудобно говорить об этом."
 
 # game/scenario/sc_en.rpy:135
 translate russian s1_13b41d40:
 
     # " | For some reason, I can't help but feel I'm abusing her|"
-    ""
+    " Почему то я чувствую, что так оскорбляю её."
 
 # game/scenario/sc_en.rpy:136
 translate russian s1_c6e3d23c:
@@ -448,31 +448,31 @@ translate russian s1_c6e3d23c:
     # nvl clear
     # "\"Sorry| I asked something stupid.{w} I did it without thinking, so you don't have to worry about it.\""
     nvl clear
-    ""
+    "\"Извини, я спросил глупость.{w} Я сделал это не подумав, так что не беспокойся об этом.\""
 
 # game/scenario/sc_en.rpy:140
 translate russian s1_a9911db3:
 
     # " Hisui looks up with apologetic eyes."
-    ""
+    " Хисуи смотрит на меня извиняющимися глазами."
 
 # game/scenario/sc_en.rpy:141
 translate russian s1_7a6625d7:
 
     # "\"Now, now, don't worry about it.{w} Could you bring me the change of clothes?{w} I can't go to the dining room in this.\""
-    ""
+    "\"Не стоит беспокоиться об этом.{w} Не могла бы ты принести мне сменную одежду?{w} Я не могу пойти завтракать во так.\""
 
 # game/scenario/sc_en.rpy:144
 translate russian s1_b01c389c_2:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:152
 translate russian s1_dde0b5c3:
 
     # " Hisui leaves the room, even though it looks like she wants to say something."
-    ""
+    " Хисуи вышла из комнаты, хотя она выглядела так, будто хотела что-то сказать."
 
 # game/scenario/sc_en.rpy:153
 translate russian s1_76b2fe88_3:
@@ -484,79 +484,79 @@ translate russian s1_76b2fe88_3:
 translate russian s2_d67632be:
 
     # "This scene is \"Morning of Beginning - What do I do today?\"{nw}"
-    ""
+    "Эта сцена - \"Утро начала - Что я буду делать сегодня?\"{nw}"
 
 # game/scenario/sc_en.rpy:169
 translate russian s2_5a857b50:
 
     # "Would you like to skip?{nw}"
-    ""
+    "Хотите пропустить?{nw}"
 
 # game/scenario/sc_en.rpy:170
 translate russian s2_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:186
 translate russian s2_0af6a5fa_1:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:187
 translate russian s2_0af6a5fa_2:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:188
 translate russian s2_0af6a5fa_3:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:189
 translate russian s2_0af6a5fa_4:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:190
 translate russian s2_2fc73b13:
 
     # " I dreamt a ridiculous dream."
-    ""
+    " Мне снился нелепый сон."
 
 # game/scenario/sc_en.rpy:191
 translate russian s2_557bafa4:
 
     # " Something really ridiculous."
-    ""
+    " Что-то действительно нелепое."
 
 # game/scenario/sc_en.rpy:192
 translate russian s2_eec7499e:
 
     # " Whether it was ridiculously fun{nw}"
-    ""
+    " Настолько нелепое, что даже смешное{nw}"
 
 # game/scenario/sc_en.rpy:193
 translate russian s2_40e597d5:
 
     # " Or ridiculously scary{nw}"
-    ""
+    " Или пугающе нелепое{nw}"
 
 # game/scenario/sc_en.rpy:194
 translate russian s2_948d5f9f:
 
     # " I can't even tell."
-    ""
+    " Не могу сказать."
 
 # game/scenario/sc_en.rpy:195
 translate russian s2_f1f32704:
 
     # " It was a messed up dream."
-    ""
+    " Это был странный сон."
 
 # game/scenario/sc_en.rpy:196
 translate russian s2_76b2fe88:
@@ -568,37 +568,37 @@ translate russian s2_76b2fe88:
 translate russian s2_5f1b45d6:
 
     # "\"Shiki-sama?{w} Are you awake, Shiki-sama?\""
-    ""
+    "\"Шики-сама?{w}Вы проснулись, Шики-сама?\""
 
 # game/scenario/sc_en.rpy:203
 translate russian s2_a4ea8ded:
 
     # " The careful voice of Hisui."
-    ""
+    " Осторожный голос Хисуи."
 
 # game/scenario/sc_en.rpy:204
 translate russian s2_bf2dccb4:
 
     # "\"It's time to wake up.{w} Won't you wake up for today, Shiki-sama?\""
-    ""
+    "\"Время просыпаться.{w} Вы не проснётесь сегодня, Шики-сама?\""
 
 # game/scenario/sc_en.rpy:205
 translate russian s2_a83ad203:
 
     # " How can I not wake up after hearing such words?"
-    ""
+    " Как я могу не проснуться услышав такие слова?"
 
 # game/scenario/sc_en.rpy:206
 translate russian s2_b01c389c:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:207
 translate russian s2_0f996486:
 
     # " I force my still tired body to wake up."
-    ""
+    " Я напрягаю своё всё ещё уставшее тело и просыпаюсь."
 
 # game/scenario/sc_en.rpy:208
 translate russian s2_76b2fe88_1:
@@ -610,37 +610,37 @@ translate russian s2_76b2fe88_1:
 translate russian s2_ddbd64a6:
 
     # "\"Did you have a good night's rest, Shiki-sama?\""
-    ""
+    "\"Вы хорошо отдохнули, Шики-сама?\""
 
 # game/scenario/sc_en.rpy:215
 translate russian s2_4abd60ca:
 
     # "\"Mmm| morning, Hisui.{w} Sorry you have to deal with a person like me.\""
-    ""
+    "\"Ммм, утречка, Хисуи.{w} Извини что тебе приходится иметь дело с человеком как я.\""
 
 # game/scenario/sc_en.rpy:218
 translate russian s2_4f8366d6:
 
     # "\"No, it's nothing like that.{w} I enjoy waking you up in the morning.\""
-    ""
+    "\"Нет, ничего такого.{w} Мне нравится будить вас по утрам.\""
 
 # game/scenario/sc_en.rpy:219
 translate russian s2_69c6e56b:
 
     # "\"Oh?{w} Okay| well, if you enjoy it I guess it's okay|\""
-    ""
+    "\"Да?{w} Хорошо, раз тебе это нравится, то всё в порядке\""
 
 # game/scenario/sc_en.rpy:220
 translate russian s2_5ff37c4e:
 
     # " I would hate to be doing what she is doing."
-    ""
+    " Я бы не хотел делать то, что делает она."
 
 # game/scenario/sc_en.rpy:223
 translate russian s2_5f57d498:
 
     # " | Eh|{w} Hisui is carefully looking at my face."
-    ""
+    " Э?{w} Хисуи остарожно смотрит на моё лицо."
 
 # game/scenario/sc_en.rpy:224
 translate russian s2_71dfcd11:
@@ -648,25 +648,25 @@ translate russian s2_71dfcd11:
     # nvl clear
     # "\"Shiki-sama, you don't look well.{w} Is your health okay?\""
     nvl clear
-    ""
+    "\"Шики-сама Вы выглядите не хорошо.{w} Вы в порядке?\""
 
 # game/scenario/sc_en.rpy:226
 translate russian s2_1e1f7b3d:
 
     # "\"Yeah| I feel normal.{w} I'm not even sweating.\""
-    ""
+    "\"Да, в норме.{w} Я даже не вспотел.\""
 
 # game/scenario/sc_en.rpy:227
 translate russian s2_cd7d45f2:
 
     # " I bring my hand up to my forehead as I speak."
-    ""
+    " Я кладу свою руку на лоб когда говорю это."
 
 # game/scenario/sc_en.rpy:228
 translate russian s2_803ec7a4:
 
     # " | Sweat.{w} Now that I think about it, I dreamt something weird last night|"
-    ""
+    " Пот.{w} Теперь, когда я задумался над этим, я вспомнил, что видел нечто странное этой ночью."
 
 # game/scenario/sc_en.rpy:229
 translate russian s2_c496b079:
@@ -674,19 +674,19 @@ translate russian s2_c496b079:
     # nvl clear
     # "\"Well, it's nothing serious.{w} I'll try waking up by myself, too.{w} All right!{w} Maybe I'll buy an alarm clock today!\""
     nvl clear
-    ""
+    "\"Чтож, ничего серьёзного.{w} Я попытаюсь встать сам.{w} Всё хорошо!{w} Может быть я куплю сегодня будильник!"
 
 # game/scenario/sc_en.rpy:231
 translate russian s2_8f9d0dbf:
 
     # " I clap my hands as I suggest it."
-    ""
+    " Я хлопаю в ладоши, когда говорю это."
 
 # game/scenario/sc_en.rpy:234
 translate russian s2_8e7179fa:
 
     # " And Hisui just stands there with a reluctant expression."
-    ""
+    " А Хисуи просто стоит с неохотным выражением лица."
 
 # game/scenario/sc_en.rpy:235
 translate russian s2_86c9e3d2:
@@ -694,37 +694,37 @@ translate russian s2_86c9e3d2:
     # nvl clear
     # "\"Hisui|?\""
     nvl clear
-    ""
+    "\"Хисуи?\""
 
 # game/scenario/sc_en.rpy:239
 translate russian s2_671e7078:
 
     # "\"Shiki-sama| do you dislike me waking you up every morning?\""
-    ""
+    "\"Шики-сама, Вам не нравится когда я бужу вас по утрам?\""
 
 # game/scenario/sc_en.rpy:240
 translate russian s2_3aa3766e:
 
     # "\"Eh| no| it's not that.{w} Absolutely not|\""
-    ""
+    "\"А? Нет, всё нормально.{w} Точно нормально"
 
 # game/scenario/sc_en.rpy:243
 translate russian s2_604e3b90:
 
     # "\"Then please refrain from saying such things.{w} If I trouble you, Shiki-sama, then I can't perform any of my duties.\""
-    ""
+    "\"Тогда, пожалуйста, воздержитесь говорить такие вещи.{w} Если я беспокою вас, Шики-сама, то это означает, что я не выполняю своих обязанностей.\""
 
 # game/scenario/sc_en.rpy:244
 translate russian s2_ce78d43f:
 
     # " She looks at me silently."
-    ""
+    " Она тихо посмотрела на меня."
 
 # game/scenario/sc_en.rpy:245
 translate russian s2_b74bfc58:
 
     # " I do want to apologize| but it feels as if I'm being threatened|"
-    ""
+    " Я хочу извиниться, но мне кажется, что в этой фразе была угроза"
 
 # game/scenario/sc_en.rpy:246
 translate russian s2_5e2bd2f8:
@@ -732,31 +732,31 @@ translate russian s2_5e2bd2f8:
     # nvl clear
     # "\"Ah| right|{w} certainly, you're more reliable than an alarm clock.\""
     nvl clear
-    ""
+    "\"Ладно{w} ты действительно надёжнее любого будильника.\""
 
 # game/scenario/sc_en.rpy:250
 translate russian s2_49e8a092:
 
     # "\"Thank you for saying that."
-    ""
+    "\"Спасибо что сказали это."
 
 # game/scenario/sc_en.rpy:251
 translate russian s2_0fa3dc99:
 
     # " Then, Shiki-sama, what will you do today?\""
-    ""
+    " Тогда, Шики-сама, что вы будете сегодня делать?\""
 
 # game/scenario/sc_en.rpy:252
 translate russian s2_bf2c82d4:
 
     # "\"Eh?{w} Today|\""
-    ""
+    "\"А?{w}Сегодня?\""
 
 # game/scenario/sc_en.rpy:253
 translate russian s2_acdfed58:
 
     # " I was about to say \"Of course, I'll|\"{w} Then all my thoughts stopped."
-    ""
+    " Я собирался сказать \"Конечно же я ...\"{w} Но в этот момент мои мысли остановились."
 
 # game/scenario/sc_en.rpy:254
 translate russian s2_7bfe5f46:
@@ -764,25 +764,25 @@ translate russian s2_7bfe5f46:
     # nvl clear
     # " I don't know what I was going to do today."
     nvl clear
-    ""
+    " Я не знаю что я собирался делать сегодня."
 
 # game/scenario/sc_en.rpy:256
 translate russian s2_0941167b:
 
     # " Did I fall asleep yesterday thinking about what I should do today?"
-    ""
+    " Вчера я уснул, размышляя о том, что я хотел делать сегодня?"
 
 # game/scenario/sc_en.rpy:257
 translate russian s2_d8877362:
 
     # " I've been thinking about what I did yesterday, and then I finally just accepted the fact that I can't remember."
-    ""
+    " Я начинаю думать о том, что делал вчера, и наконец понимаю, что я не могу вспомнить этого."
 
 # game/scenario/sc_en.rpy:258
 translate russian s2_c5f49e55:
 
     # " It's not like remembering what I did yesterday will change what I'll do today."
-    ""
+    " Похоже что воспоминание о том, что я делал вчера никак не изменит моих планов на сегодня."
 
 # game/scenario/sc_en.rpy:259
 translate russian s2_1ae0a50b:
@@ -790,25 +790,25 @@ translate russian s2_1ae0a50b:
     # nvl clear
     # "\"Shiki-sama, what are your plans for today?\""
     nvl clear
-    ""
+    "\"Шики-сама, какие у вас планы на сегодня?\""
 
 # game/scenario/sc_en.rpy:268
 translate russian s2_b698c104:
 
     # "\"Ah, right.{w} Today|\""
-    ""
+    "А, да.{w} Сегодня"
 
 # game/scenario/sc_en.rpy:269
 translate russian s2_691efad9:
 
     # " Today I'll|{nw}"
-    ""
+    " Сегодня я{nw}"
 
 # game/scenario/sc_en.rpy:270
 translate russian s2_0af6a5fa_5:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:285
 translate russian s3_a6851a19:
