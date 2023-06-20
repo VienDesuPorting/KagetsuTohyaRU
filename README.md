@@ -9,7 +9,7 @@ Russian Translation for Kagesu Tohya Visual Novel
  - [x] setup/gallery.rpy - **100%**
  - [x] setup/options.rpy - **100%**
  - [x] setup/save_load.rpy - **100%**
- - [ ] setup/screens.rpy - **15%**
+ - [x] setup/screens.rpy - **100%**
  - [x] common.rpy - **100%**
 
 **P.S. Game uses Ren'Py 7.4.11**
