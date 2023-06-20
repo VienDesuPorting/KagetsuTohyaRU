@@ -4,39 +4,39 @@ translate russian strings:
 
     # game/setup/screens.rpy:259
     old "ロールバック"
-    new ""
+    new "Назад"
 
     # game/setup/screens.rpy:260
     old "ヒストリー"
-    new ""
+    new "История"
 
     # game/setup/screens.rpy:261
     old "スキップ"
-    new ""
+    new "Пропуск"
 
     # game/setup/screens.rpy:262
     old "オート"
-    new ""
+    new "Авто"
 
     # game/setup/screens.rpy:263
     old "セーブ"
-    new ""
+    new "Сохранить"
 
     # game/setup/screens.rpy:264
     old "Q.セーブ"
-    new ""
+    new "Б.Сохр"
 
     # game/setup/screens.rpy:265
     old "Q.ロード"
-    new ""
+    new "Б.Загр"
 
     # game/setup/screens.rpy:266
     old "設定"
-    new ""
+    new "Опции"
 
     # game/setup/screens.rpy:482
     old "バージョン情報"
-    new ""
+    new "Об игре"
 
     # game/setup/screens.rpy:489
     old "Version [config.version!t]\n"
@@ -52,27 +52,27 @@ translate russian strings:
 
     # game/setup/screens.rpy:792
     old "ヘルプ"
-    new ""
+    new "Помощь"
 
     # game/setup/screens.rpy:801
     old "キーボード"
-    new ""
+    new "Клавиатура"
 
     # game/setup/screens.rpy:802
     old "マウス"
-    new ""
+    new "Мышь"
 
     # game/setup/screens.rpy:805
     old "ゲームパッド"
-    new ""
+    new "Геймпад"
 
     # game/setup/screens.rpy:818
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/setup/screens.rpy:819
     old "台詞を読み進める。またはボタンを選択する。"
-    new ""
+    new "Прохождение диалогов, активация интерфейса."
 
     # game/setup/screens.rpy:822
     old "Space"
@@ -80,15 +80,15 @@ translate russian strings:
 
     # game/setup/screens.rpy:823
     old "台詞を読み進める。ただしボタンは選択しない。"
-    new ""
+    new "Прохождение диалогов без возможности делать выбор."
 
     # game/setup/screens.rpy:826
     old "方向キー"
-    new ""
+    new "Стрелки"
 
     # game/setup/screens.rpy:827
     old "インターフェースを移動する。"
-    new ""
+    new "Навигация по интерфейсу."
 
     # game/setup/screens.rpy:830
     old "Escape"
@@ -96,51 +96,51 @@ translate russian strings:
 
     # game/setup/screens.rpy:831
     old "ゲームメニューを開く。"
-    new ""
+    new "Вход в игровое меню."
 
     # game/setup/screens.rpy:834
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/setup/screens.rpy:835
     old "押し続けている間スキップする。"
-    new ""
+    new "Пропускает диалоги, пока зажат."
 
     # game/setup/screens.rpy:838
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/setup/screens.rpy:839
     old "スキップモードに切り替える。"
-    new ""
+    new "Включает режим пропуска."
 
     # game/setup/screens.rpy:842
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/setup/screens.rpy:843
     old "前の台詞に戻る。"
-    new ""
+    new "Откат назад по сюжету игры."
 
     # game/setup/screens.rpy:846
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/setup/screens.rpy:847
     old "ロールバック中、次の台詞に進む。"
-    new ""
+    new "Откатывает предыдущее действие вперёд."
 
     # game/setup/screens.rpy:851
     old "インターフェースを隠す。"
-    new ""
+    new "Скрывает интерфейс пользователя."
 
     # game/setup/screens.rpy:855
     old "スクリーンショットを撮る。"
-    new ""
+    new "Делает снимок экрана."
 
     # game/setup/screens.rpy:859
     old "{a=https://www.renpy.org/l/voicing}セルフボイシング{/a}を有効化する。"
-    new ""
+    new "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 
     # game/setup/screens.rpy:863
     old "Opens the accessibility menu."
@@ -148,51 +148,51 @@ translate russian strings:
 
     # game/setup/screens.rpy:869
     old "左クリック"
-    new ""
+    new "Левый клик"
 
     # game/setup/screens.rpy:873
     old "中クリック"
-    new ""
+    new "Клик колёсиком"
 
     # game/setup/screens.rpy:877
     old "右クリック"
-    new ""
+    new "Правый клик"
 
     # game/setup/screens.rpy:881
     old "マウスホイール上回転\n画面サイドをタッチ"
-    new ""
+    new "Колёсико вверх\nКлик на сторону отката"
 
     # game/setup/screens.rpy:885
     old "マウスホイール下回転"
-    new ""
+    new "Колёсико вниз"
 
     # game/setup/screens.rpy:892
     old "Ｒトリガー\nＡ／下ボタン"
-    new ""
+    new "Правый триггер\nA/Нижняя кнопка"
 
     # game/setup/screens.rpy:896
     old "Ｌトリガー\nＬボタン"
-    new ""
+    new "Левый Триггер\nЛевый Бампер"
 
     # game/setup/screens.rpy:900
     old "Ｒボタン"
-    new ""
+    new "Правый бампер"
 
     # game/setup/screens.rpy:905
     old "方向パッド\n左右スティック"
-    new ""
+    new "Крестовина, Стики"
 
     # game/setup/screens.rpy:909
     old "スタート、ガイド"
-    new ""
+    new "Start, Guide"
 
     # game/setup/screens.rpy:913
     old "Ｙ／上ボタン"
-    new ""
+    new "Y/Верхняя кнопка"
 
     # game/setup/screens.rpy:916
     old "キャリブレート"
-    new ""
+    new "Калибровка"
 
     # game/setup/screens.rpy:982
     old "Yes"
@@ -204,9 +204,9 @@ translate russian strings:
 
     # game/setup/screens.rpy:1028
     old "スキップ中"
-    new ""
+    new "Пропускаю"
 
     # game/setup/screens.rpy:1251
     old "メニュー"
-    new ""
+    new "Меню"
 
