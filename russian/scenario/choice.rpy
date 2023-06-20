@@ -22,11 +22,11 @@ translate russian strings:
 
     # game/scenario/choice.rpy:43
     old " 1. Go to school."
-    new " 1. Сегодня я пойду в школу."
+    new " 1. Пойду в школу."
 
     # game/scenario/choice.rpy:43
     old " 2. Stay at the mansion."
-    new " 2. Отстаться в особняке."
+    new " 2. Останусь в особняке."
 
     # game/scenario/choice.rpy:57
     old " 1. To Arcueid's apartment."
