@@ -52,7 +52,7 @@ translate russian s1_0af6a5fa_6:
 translate russian s1_a5a032cb:
 
     # "--------I open my eyes from my slumber."
-    "--------Я открыл сонные глаза."
+    "--------Я открываю сонные глаза."
 
 # game/scenario/sc_en.rpy:33
 translate russian s1_1bc18805:
@@ -140,7 +140,7 @@ translate russian s1_94a94119:
 translate russian s1_5c517283:
 
     # " Yesterday|{w} yesterday|"
-    " Вчера{ц} вчера"
+    " Вчера{w} вчера"
 
 # game/scenario/sc_en.rpy:55
 translate russian s1_fc80872f:
@@ -192,7 +192,7 @@ translate russian s1_c3a98c8a:
 translate russian s1_2328f00f:
 
     # " The day before yesterday|{w} Today's Wednesday|{w} so it must've been Monday."
-    " Позавчера{w} Сегодня Среда{w} значит это был Понедельник"
+    " Позавчера{w} сегодня Среда{w} значит это был Понедельник"
 
 # game/scenario/sc_en.rpy:65
 translate russian s1_b01c389c:
@@ -254,7 +254,7 @@ translate russian s1_92389040:
 translate russian s1_9dcbf016:
 
     # " What is this|{w} I can feel my current existence, but everything else is hard to grasp."
-    " Что это такое{w}Я ощущаю моё текущее существование, но всё остальное трудно осознать."
+    " Что это такое{w} Я ощущаю моё текущее существование, но всё остальное трудно осознать."
 
 # game/scenario/sc_en.rpy:76
 translate russian s1_32aa0d9b:
@@ -310,7 +310,7 @@ translate russian s1_25695884:
 translate russian s1_ee9c2d6c:
 
     # " Knock, knock.{w} Someone's at the door."
-    " Стук.{w} Кто-то у двери."
+    " Тук, тук.{w} Кто-то у двери."
 
 # game/scenario/sc_en.rpy:88
 translate russian s1_76b2fe88_1:
@@ -376,7 +376,7 @@ translate russian s1_76b2fe88_2:
 translate russian s1_f6bfb826:
 
     # "\"You are awake today.{w} Then I'll bring your change of clothes immediately.{w} Please wait a moment.\""
-    "\"Вы проснулись.{w} Тогда я немедленно принесу вашу спенную одежду.{w} Пожалуйста, подождите немного.\""
+    "\"Вы проснулись.{w} Тогда я немедленно принесу вашу сменную одежду.{w} Пожалуйста, подождите немного.\""
 
 # game/scenario/sc_en.rpy:115
 translate russian s1_d66e4237:
@@ -460,7 +460,7 @@ translate russian s1_a9911db3:
 translate russian s1_7a6625d7:
 
     # "\"Now, now, don't worry about it.{w} Could you bring me the change of clothes?{w} I can't go to the dining room in this.\""
-    "\"Не стоит беспокоиться об этом.{w} Не могла бы ты принести мне сменную одежду?{w} Я не могу пойти завтракать во так.\""
+    "\"Не стоит беспокоиться об этом.{w} Не могла бы ты принести мне сменную одежду?{w} Я не могу пойти завтракать вот так.\""
 
 # game/scenario/sc_en.rpy:144
 translate russian s1_b01c389c_2:
@@ -568,7 +568,7 @@ translate russian s2_76b2fe88:
 translate russian s2_5f1b45d6:
 
     # "\"Shiki-sama?{w} Are you awake, Shiki-sama?\""
-    "\"Шики-сама?{w}Вы проснулись, Шики-сама?\""
+    "\"Шики-сама?{w} Вы проснулись, Шики-сама?\""
 
 # game/scenario/sc_en.rpy:203
 translate russian s2_a4ea8ded:
@@ -586,7 +586,7 @@ translate russian s2_bf2dccb4:
 translate russian s2_a83ad203:
 
     # " How can I not wake up after hearing such words?"
-    " Как я могу не проснуться услышав такие слова?"
+    " Как я могу не проснуться, услышав такие слова?"
 
 # game/scenario/sc_en.rpy:206
 translate russian s2_b01c389c:
@@ -640,7 +640,7 @@ translate russian s2_5ff37c4e:
 translate russian s2_5f57d498:
 
     # " | Eh|{w} Hisui is carefully looking at my face."
-    " Э?{w} Хисуи остарожно смотрит на моё лицо."
+    " Э?{w} Хисуи осторожно смотрит на моё лицо."
 
 # game/scenario/sc_en.rpy:224
 translate russian s2_71dfcd11:
@@ -654,7 +654,7 @@ translate russian s2_71dfcd11:
 translate russian s2_1e1f7b3d:
 
     # "\"Yeah| I feel normal.{w} I'm not even sweating.\""
-    "\"Да, в норме.{w} Я даже не вспотел.\""
+    "\"Да, я в норме.{w} Я даже не вспотел.\""
 
 # game/scenario/sc_en.rpy:227
 translate russian s2_cd7d45f2:
@@ -750,13 +750,13 @@ translate russian s2_0fa3dc99:
 translate russian s2_bf2c82d4:
 
     # "\"Eh?{w} Today|\""
-    "\"А?{w}Сегодня?\""
+    "\"А?{w} Сегодня?\""
 
 # game/scenario/sc_en.rpy:253
 translate russian s2_acdfed58:
 
     # " I was about to say \"Of course, I'll|\"{w} Then all my thoughts stopped."
-    " Я собирался сказать \"Конечно же я ...\"{w} Но в этот момент мои мысли остановились."
+    " Я собирался сказать \"Конечно же я\"{w} Но в этот момент мои мысли остановились."
 
 # game/scenario/sc_en.rpy:254
 translate russian s2_7bfe5f46:
@@ -796,7 +796,7 @@ translate russian s2_1ae0a50b:
 translate russian s2_b698c104:
 
     # "\"Ah, right.{w} Today|\""
-    "А, да.{w} Сегодня"
+    "\"А, да.{w} Сегодня\""
 
 # game/scenario/sc_en.rpy:269
 translate russian s2_691efad9:
