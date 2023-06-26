@@ -254,13 +254,13 @@ translate russian s1_92389040:
 translate russian s1_9dcbf016:
 
     # " What is this|{w} I can feel my current existence, but everything else is hard to grasp."
-    " Что это такое?{w} [Я ощущаю моё текущее существование, но всё остальное трудно осознать]."
+    " Что это такое?{w} \[Я ощущаю моё текущее существование, но всё остальное трудно осознать\]."
 
 # game/scenario/sc_en.rpy:76
 translate russian s1_32aa0d9b:
 
     # "------No| maybe|"
-    "------[Нет, возможно]"
+    "------\[Нет, возможно\]"
 
 # game/scenario/sc_en.rpy:77
 translate russian s1_8c71c4c5:
@@ -666,7 +666,7 @@ translate russian s2_cd7d45f2:
 translate russian s2_803ec7a4:
 
     # " | Sweat.{w} Now that I think about it, I dreamt something weird last night|"
-    " [Пот].{w} Теперь, когда я задумался над этим, я вспомнил, что видел нечто странное этой ночью."
+    " \[Пот\].{w} Теперь, когда я задумался над этим, я вспомнил, что видел нечто странное этой ночью."
 
 # game/scenario/sc_en.rpy:229
 translate russian s2_c496b079:
@@ -712,7 +712,7 @@ translate russian s2_3aa3766e:
 translate russian s2_604e3b90:
 
     # "\"Then please refrain from saying such things.{w} If I trouble you, Shiki-sama, then I can't perform any of my duties.\""
-    "\"Тогда, пожалуйста, воздержитесь говорить такие вещи.{w} Если я [беспокою вас], Шики-сама, то это означает, что я не выполняю своих обязанностей.\""
+    "\"Тогда, пожалуйста, воздержитесь говорить такие вещи.{w} Если я \[беспокою вас\], Шики-сама, то это означает, что я не выполняю своих обязанностей.\""
 
 # game/scenario/sc_en.rpy:244
 translate russian s2_ce78d43f:
@@ -724,7 +724,7 @@ translate russian s2_ce78d43f:
 translate russian s2_b74bfc58:
 
     # " I do want to apologize| but it feels as if I'm being threatened|"
-    " Я хочу извиниться, но мне кажется, что в этой фразе была [угроза]."
+    " Я хочу извиниться, но мне кажется, что в этой фразе была \[угроза\]."
 
 # game/scenario/sc_en.rpy:246
 translate russian s2_5e2bd2f8:
@@ -770,7 +770,7 @@ translate russian s2_7bfe5f46:
 translate russian s2_0941167b:
 
     # " Did I fall asleep yesterday thinking about what I should do today?"
-    " [Вчера я уснул, размышляя о том, что я хотел делать сегодня]?"
+    " \[Вчера я уснул, размышляя о том, что я хотел делать сегодня\]?"
 
 # game/scenario/sc_en.rpy:257
 translate russian s2_d8877362:
@@ -1120,13 +1120,13 @@ translate russian s4_5301cf43:
 translate russian s4_895d7edf:
 
     # " If I go south from the intersection, it'll be the school, east of the mansion.{w} If I don't hurry, I'll be late.{w} If I don't want to be late, I have to wake up and run all the way here."
-    " Если я пойду на юг от перекрёстка, то попаду в школу, которая находится восточнее особняка.{w} [Если я не потороплюсь, то опоздаю].{w} Если я не хочу опаздывать, я встаю раньше и бегу по этому пути."
+    " Если я пойду на юг от перекрёстка, то попаду в школу, которая находится восточнее особняка.{w} \[Если я не потороплюсь, то опоздаю\].{w} Если я не хочу опаздывать, я встаю раньше и бегу по этому пути."
 
 # game/scenario/sc_en.rpy:433
 translate russian s4_176d27da:
 
     # " This is the normal routine when I want to go to Arcueid's place in the morning."
-    " Это [обыкновенная рутина] когда я собираюсь зайти к Арквейд с утра."
+    " Это \[обыкновенная рутина\] когда я собираюсь зайти к Арквейд с утра."
 
 # game/scenario/sc_en.rpy:434
 translate russian s4_76b2fe88_2:
@@ -1192,7 +1192,7 @@ translate russian s4_f9794e8e:
 translate russian s4_d9140711:
 
     # " Maybe she went out last night, but she looks more tired than usual as she sits up on her bed."
-    " Может быть она [выходила] прошлой ночью, она выглядит уставшей сильнее, чем обычно когда садится на кровати."
+    " Может быть она \[выходила\] прошлой ночью, она выглядит уставшей сильнее, чем обычно когда садится на кровати."
 
 # game/scenario/sc_en.rpy:460
 translate russian s4_feff3dfe:
@@ -1206,7 +1206,7 @@ translate russian s4_feff3dfe:
 translate russian s4_fa9b7241:
 
     # "\"Yeah| I dreamt a pretty boring dream last night.{w} It feels like I'll get swept away by myself.\""
-    "\"Да, мне снился довольно [утомительный] сон ночью.{w} [Такое чувство будто меня уносит прочь].\""
+    "\"Да, мне снился довольно \[утомительный\] сон ночью.{w} \[Такое чувство будто меня уносит прочь\].\""
 
 # game/scenario/sc_en.rpy:463
 translate russian s4_7cf9945e:
@@ -1218,7 +1218,7 @@ translate russian s4_7cf9945e:
 translate russian s4_f381af83:
 
     # "\"Boring dream|?{w} I thought you didn't dream often, Arcueid.\""
-    "\"[Утомительный сон]?{w} Я думал ты не часто видишь сны, Арквейд.\""
+    "\"\[Утомительный сон\]?{w} Я думал ты не часто видишь сны, Арквейд.\""
 
 # game/scenario/sc_en.rpy:465
 translate russian s4_f8db5fcf:
@@ -1238,13 +1238,13 @@ translate russian s4_ccbe56ff:
     # nvl clear
     # "\"Yeah| a dream is half reality, half wish.{w} It's different from remembering the past.\""
     nvl clear
-    "\"Да, сны это наполовину реальность, наполовину [желания].{w} Это не просто воспоминания из прошлого.\""
+    "\"Да, сны это наполовину реальность, наполовину \[желания\].{w} Это не просто воспоминания из прошлого.\""
 
 # game/scenario/sc_en.rpy:469
 translate russian s4_fb519966:
 
     # "\"Right.{w} I don't know what 'half wish' means, but you experience things you haven't, right?{w} Then I've never dreamt.\""
-    "\"Верно.{w} Я не знаю что означает 'наполовину [желания]', но ты [испытываешь] вещи которых нет, верно?{w} Тогда я никогда не видела сны.\""
+    "\"Верно.{w} Я не знаю что означает 'наполовину \[желания\]', но ты \[испытываешь\] вещи которых нет, верно?{w} Тогда я никогда не видела сны.\""
 
 # game/scenario/sc_en.rpy:473
 translate russian s4_d888fc91:
@@ -1270,7 +1270,7 @@ translate russian s4_0622c77a:
 translate russian s4_0b5dc220:
 
     # " It was horrible.{w} I thought maybe I had dreamt at last, but I saw a future that I hate the most.{w} You didn't come, either.{w} I feel like I got cheated out of something.\""
-    " Это ужасно.{w} Я подумала, что мне приснился сон, но я видела будущее, которое не хотела бы больше всего.{w} [И в любом случае ты не пришёл].{w} Я чувствовала себя в чём-то обманутой.\""
+    " Это ужасно.{w} Я подумала, что мне приснился сон, но я видела будущее, которое не хотела бы больше всего.{w} \[И в любом случае ты не пришёл\].{w} Я чувствовала себя в чём-то обманутой.\""
 
 # game/scenario/sc_en.rpy:488
 translate russian s4_016278ca:
@@ -1306,13 +1306,13 @@ translate russian s4_07d812a5:
 translate russian s4_8415b3d8:
 
     # "\"Ah| no, I just thought maybe I'd see you for a while.{w} After I hear what I came here for, I'm going to school.\""
-    "\"А, нет, я просто решил заглянуть к тебе ненадолго.{w} После того как я [услышу всё что хочу], я пойду в школу.\""
+    "\"А, нет, я просто решил заглянуть к тебе ненадолго.{w} После того как я \[услышу всё что хочу\], я пойду в школу.\""
 
 # game/scenario/sc_en.rpy:499
 translate russian s4_060d78e6:
 
     # "\"Ah| Shiki, you're so cold in that aspect.{w} You didn't come help me yesterday when I was in a pinch.\""
-    "\"Ах, Шики, ты так [холоден в этом плане].{w} Ты не пришёл на помощь вчера, когда у меня были неприятности.\""
+    "\"Ах, Шики, ты так \[холоден в этом плане\].{w} Ты не пришёл на помощь вчера, когда у меня были неприятности.\""
 
 # game/scenario/sc_en.rpy:500
 translate russian s4_fa9f875e:
@@ -1324,7 +1324,7 @@ translate russian s4_fa9f875e:
 translate russian s4_dea46636:
 
     # " Her dream is troubling, but at least getting trusted feels good."
-    " Её сон тревожит, но, по крайней мере, [когда тебе доверяют приятно]."
+    " Её сон тревожит, но, по крайней мере, \[когда тебе доверяют приятно\]."
 
 # game/scenario/sc_en.rpy:502
 translate russian s4_107044e4:
@@ -1376,7 +1376,7 @@ translate russian s4_8a528a6f:
 translate russian s4_e75a16a7:
 
     # " Arcueid quickly consents.{w} It's good that she understands quickly."
-    " [Арквейд быстро соглашается].{w} Хорошо, что она быстро поняла."
+    " \[Арквейд быстро соглашается\].{w} Хорошо, что она быстро поняла."
 
 # game/scenario/sc_en.rpy:515
 translate russian s4_c5248774:
@@ -1458,13 +1458,13 @@ translate russian s4_198f5b46:
 translate russian s4_85531965:
 
     # "\"No, I don't know myself.{w} I don't know what it is, but it just feels weird."
-    "\"Нет, я и сам не знаю.{w} Я не знаю что это, но просто это кажется [странным]."
+    "\"Нет, я и сам не знаю.{w} Я не знаю что это, но просто это кажется \[странным\]."
 
 # game/scenario/sc_en.rpy:537
 translate russian s4_3acbf169:
 
     # " And only you or Senpai would do something weird, so I came to ask about it.\""
-    " И только ты или Семпай могут сделать что-то [странное], поэтому я и пришёл спросить об этом.\""
+    " И только ты или Семпай могут сделать что-то \[странное\], поэтому я и пришёл спросить об этом.\""
 
 # game/scenario/sc_en.rpy:538
 translate russian s4_76b2fe88_6:
@@ -1482,7 +1482,7 @@ translate russian s4_fa5965c8:
 translate russian s4_8779c4d2:
 
     # "\"Yeah| I don't remember your doing anything to me, either.\""
-    "\"[Да, я тоже не припомню, чтобы ты что-то делала со мной].\""
+    "\"\[Да, я тоже не припомню, чтобы ты что-то делала со мной\].\""
 
 # game/scenario/sc_en.rpy:543
 translate russian s4_5ca56755:
@@ -1520,7 +1520,7 @@ translate russian s4_e29098dd:
 translate russian s4_19ae0a3c:
 
     # " That pitiable asking face| I'm a healthy male| my determination is swaying."
-    " Это жалостливо вопрошающее лицо. Я [здоровый] мужчина, моя решимость пошатнулась."
+    " Это жалостливо вопрошающее лицо. Я \[здоровый\] мужчина, моя решимость пошатнулась."
 
 # game/scenario/sc_en.rpy:552
 translate russian s4_76b2fe88_7:
@@ -1568,7 +1568,7 @@ translate russian s5_0af6a5fa:
 translate russian s5_f6ab9bc5:
 
     # " | Yeah, even though it'll be a detour, I guess I can go to school with her."
-    " Хм, хотя это и будет [обходной путь], думаю я смогу пойти в школу с ней."
+    " Хм, хотя это и будет \[обходной путь\], думаю я смогу пойти в школу с ней."
 
 # game/scenario/sc_en.rpy:598
 translate russian s5_16e62e31:
@@ -1642,7 +1642,7 @@ translate russian s5_66d57fba:
 translate russian s5_f18ef2ae:
 
     # " I turn away from the bowing Hisui and trod downhill."
-    " Я отвернулся от кланяющейся Хисуи и [побрёл] вниз по склону."
+    " Я отвернулся от кланяющейся Хисуи и \[побрёл\] вниз по склону."
 
 # game/scenario/sc_en.rpy:626
 translate russian s5_76b2fe88_1:
@@ -1654,7 +1654,7 @@ translate russian s5_76b2fe88_1:
 translate russian s5_52a78f6c:
 
     # " I arrive at Senpai's apartment with time to spare."
-    " Я пришёл к квартире Семпай [с запасом времени]."
+    " Я пришёл к квартире Семпай \[с запасом времени\]."
 
 # game/scenario/sc_en.rpy:633
 translate russian s5_e487e04e:
@@ -1690,7 +1690,7 @@ translate russian s5_7f3fcc0b:
 translate russian s5_d4c16c64:
 
     # "\"Of course.{w} I can't stop what I'm doing now, so please help yourself in.\""
-    "\"Конечно.{w} Я не могу оставить, то что делаю сейчас, так что [войди самостоятельно].\""
+    "\"Конечно.{w} Я не могу оставить, то что делаю сейчас, так что \[войди самостоятельно\].\""
 
 # game/scenario/sc_en.rpy:643
 translate russian s5_ded2a86f:
@@ -1702,7 +1702,7 @@ translate russian s5_ded2a86f:
 translate russian s5_ad6bb1a5:
 
     # "\"Excuse me.\""
-    "\"[Простите].\""
+    "\"\[Простите\].\""
 
 # game/scenario/sc_en.rpy:645
 translate russian s5_76b2fe88_2:
@@ -1740,13 +1740,13 @@ translate russian s5_76b2fe88_3:
 translate russian s5_a0953c46:
 
     # "\"Morning, Tohno-kun.{w} I thought we would both be late today, but you're pretty quick.\""
-    "\"Утречка, Тоно-кун.{w} Я думала, [мы оба сегодня опоздаем], но ты довольно шустрый.\""
+    "\"Утречка, Тоно-кун.{w} Я думала, \[мы оба сегодня опоздаем\], но ты довольно шустрый.\""
 
 # game/scenario/sc_en.rpy:655
 translate russian s5_3cb825c4:
 
     # "\"Eh?{w} Ah, yeah.{w} I woke up a bit early, so I have some spare time today.\""
-    "\"Э?{w} А, да.{w} Я пронулся немного раньше, так что сегодня у меня есть [запас врремени].\""
+    "\"Э?{w} А, да.{w} Я пронулся немного раньше, так что сегодня у меня есть \[запас врремени\].\""
 
 # game/scenario/sc_en.rpy:656
 translate russian s5_03a8b2d0:
@@ -1772,7 +1772,7 @@ translate russian s5_57804c79:
 translate russian s5_5bc8b8a4:
 
     # " Cleansing the streets once infected by vampires supposedly takes three months to a year, and it seems like Senpai is the only one doing it in this city."
-    " [Зачистка улиц], однажды зараженных вампирами, предположительно занимает от трех месяцев до года, и кажется, что Семпай - единственная, кто занимается этим в этом городе."
+    " \[Зачистка улиц\], однажды зараженных вампирами, предположительно занимает от трех месяцев до года, и кажется, что Семпай - единственная, кто занимается этим в этом городе."
 
 # game/scenario/sc_en.rpy:661
 translate russian s5_a6cc1fc6:
@@ -1786,7 +1786,7 @@ translate russian s5_a6cc1fc6:
 translate russian s5_10b90134:
 
     # "\"I was thinking that, but I decided to try a little harder.{w} What with the cultural festival preparations and all.{w} And seeing your face really cheered me up.\""
-    "\"Я думала над этим, но я решила [стараться усерднее].{w} Что насчёт культурного фестиваля и остального.{w} К тому же увидев твоё лицо, я взбодрилась.\""
+    "\"Я думала над этим, но я решила \[стараться усерднее\].{w} Что насчёт культурного фестиваля и остального.{w} К тому же увидев твоё лицо, я взбодрилась.\""
 
 # game/scenario/sc_en.rpy:664
 translate russian s5_fe3cc62d:
@@ -1810,7 +1810,7 @@ translate russian s5_76b2fe88_4:
 translate russian s5_8889de28:
 
     # "\"Well, if my face cheers you up, please look at it all you want.{w} I'll come whenever you call.\""
-    "\"Чтож, если моё лио бодрит тебя, пожалуйста смотри на него когда захочешь.{w} [Я приду как позовёшь].\""
+    "\"Чтож, если моё лио бодрит тебя, пожалуйста смотри на него когда захочешь.{w} \[Я приду как позовёшь\].\""
 
 # game/scenario/sc_en.rpy:670
 translate russian s5_ce1312b5:
@@ -1844,7 +1844,7 @@ translate russian s5_f932593e:
     # nvl clear
     # "\"Yeah| it would be pretty bad to let someone who comes and goes like the wind participate in club activities.{w} One must have more than just the desire to be a part."
     nvl clear
-    "\"Да, будет плохо если позволять кому-то, кто [приходит и тут же уходит], участвовать в клубных мероприятиях.{w} У человека должно быть нечто большее, чем просто желание быть частью совета."
+    "\"Да, будет плохо если позволять кому-то, кто \[приходит и тут же уходит\], участвовать в клубных мероприятиях.{w} У человека должно быть нечто большее, чем просто желание быть частью совета."
 
 # game/scenario/sc_en.rpy:679
 translate russian s5_87ac7ac4:
