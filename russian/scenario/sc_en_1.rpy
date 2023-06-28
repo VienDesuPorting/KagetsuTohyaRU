@@ -2946,49 +2946,49 @@ translate russian s8_76b2fe88_10:
 translate russian s9_0cddc2c0:
 
     # "This scene is \"School - Morning: Ciel-senpai's apartment - This is the famous curry jazz band!\"{nw}"
-    ""
+    "Эта сцена - \"Школа - Утро: квартира Сиель-семпай - \[Это знаменитый карри джаз-бэнд\]!\"{nw}"
 
 # game/scenario/sc_en.rpy:1018
 translate russian s9_5a857b50:
 
     # "Would you like to skip?{nw}"
-    ""
+    "Хотите пропустить?{nw}"
 
 # game/scenario/sc_en.rpy:1019
 translate russian s9_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:1039
 translate russian s9_c5f03a30:
 
     # "------Hmm, what am I stalling about?"
-    ""
+    "------Хмм, почему я тяну время?"
 
 # game/scenario/sc_en.rpy:1040
 translate russian s9_10874616:
 
     # " Senpai said that she'll make me breakfast.{w} If I refuse, I'm not even a man."
-    ""
+    " Семпай сказала, что она сделает мне завтрак.{w} Если я откажусь, я не мужик."
 
 # game/scenario/sc_en.rpy:1041
 translate russian s9_8e08e5e5:
 
     # " The one thing that worries me is whether I'll be able to finish it after eating Kohaku-san's meal back home."
-    ""
+    " Единственное, что меня беспокоит, - смогу ли я съесть его после того, как уже съел дома стряпню Кохаку-сан."
 
 # game/scenario/sc_en.rpy:1045
 translate russian s9_4438d1b6:
 
     # "\"Tohno-kun?{w} What are you suddenly thinking about?{w} Did I do something wrong?\""
-    ""
+    "\"Тоно-кун?{w} О чём ты внезапно задумался?{w} Я что-то делаю не так?\""
 
 # game/scenario/sc_en.rpy:1046
 translate russian s9_1fdd29e5:
 
     # "\"Ah, no, not at all!{w} I just decided.{w} I'll gladly eat the food you make me.\""
-    ""
+    "\"А, нет, ничего такого!{w} Я решил.{w} Я с радостью съем то, что ты мне приготовишь.\""
 
 # game/scenario/sc_en.rpy:1047
 translate russian s9_76b2fe88:
@@ -3000,37 +3000,37 @@ translate russian s9_76b2fe88:
 translate russian s9_eacee40b:
 
     # "\"I'm glad!{w} It was good that I made two persons' worth.{w} Then I'll make my preparations.{w} Please sit and rest."
-    ""
+    "\"Я рада!{w} \[Хорошо, что я принесу пользу двум людям\].{w} Тогда я всё подготовлю.{w} Пожалуйста, сядь и отдохни.\""
 
 # game/scenario/sc_en.rpy:1058
 translate russian s9_4a9e38a3:
 
     # " Senpai heads into the kitchen with an apron in one hand."
-    ""
+    " Семпай направилась на кухню с фартуком в одной руке."
 
 # game/scenario/sc_en.rpy:1059
 translate russian s9_b0de56c9:
 
     # "\"||||||\""
-    ""
+    "\"||||||\""
 
 # game/scenario/sc_en.rpy:1060
 translate russian s9_87fff8fc:
 
     # " Then, what should I do?"
-    ""
+    " Тогда, что делать мне?"
 
 # game/scenario/sc_en.rpy:1061
 translate russian s9_444ab0da:
 
     # " I could just sit and relax, but I really don't have anything to do right now."
-    ""
+    " Я могу просто сесть и расслабится, но \[сейчас мне и правда нечего делать\]."
 
 # game/scenario/sc_en.rpy:1062
 translate russian s9_c6eb0668:
 
     # " Although I'm not hungry, I'm fine without any more food.{w} Having recently had breakfast, the stomach doesn't require more of the brain.{w} If I eat Senpai's 'rough' menu, then it'll be suicidal."
-    ""
+    " Хотя я не голоден, я могу обойтись и без всякой еды.{w} После недавнего завтрака, \[желудок не просит больше, чем мозг\].{w} Если я съем 'грубое' меню Семпай, это будет самоубийством."
 
 # game/scenario/sc_en.rpy:1063
 translate russian s9_76b2fe88_1:
@@ -3042,25 +3042,25 @@ translate russian s9_76b2fe88_1:
 translate russian s9_66ca3725:
 
     # "\"------All right.\""
-    ""
+    "\"------Ладно.\""
 
 # game/scenario/sc_en.rpy:1067
 translate russian s9_f2fe27ca:
 
     # " I'll try to get my food down with pushups."
-    ""
+    " Я попробую проглотить еду после отжиманий."
 
 # game/scenario/sc_en.rpy:1068
 translate russian s9_93806888:
 
     # " Anyway, I'll have to work off some energy so that I can take in the food later."
-    ""
+    " \[В любом случае, мне нужно потратить немного энергии, которую я позже могу получить из еды.\]"
 
 # game/scenario/sc_en.rpy:1069
 translate russian s9_20cb1996:
 
     # "{w=0.5} 10, {w=0.5} 15, {w=0.5} 20, {w=0.5} 25, {w=0.5} 30, {w=0.5} 35||{w=0.5}! Huuu| it's simple."
-    ""
+    "{w=0.5} 10, {w=0.5} 15, {w=0.5} 20, {w=0.5} 25, {w=0.5} 30, {w=0.5} 35{w=0.5}! Хууу, это просто."
 
 # game/scenario/sc_en.rpy:1070
 translate russian s9_6af68a7e:
@@ -3068,31 +3068,31 @@ translate russian s9_6af68a7e:
     # nvl clear
     # "\"Tohno-kun, please come here for a moment.\""
     nvl clear
-    ""
+    "\"Тоно-кун, пожалуйста подойди на минутку.\""
 
 # game/scenario/sc_en.rpy:1072
 translate russian s9_978cfa06:
 
     # " Senpai calls me from the kitchen."
-    ""
+    " Семпай звала меня с кухни."
 
 # game/scenario/sc_en.rpy:1073
 translate russian s9_1fcce7ae:
 
     # "\"Okay, I'm coming.\""
-    ""
+    "\"Хорошо, я иду.\""
 
 # game/scenario/sc_en.rpy:1074
 translate russian s9_e5a2be5d:
 
     # " Done with the pushups."
-    ""
+    " Закончим с отжиманиями."
 
 # game/scenario/sc_en.rpy:1075
 translate russian s9_827bdbfe:
 
     # " I wipe off my sweat and head over to the kitchen."
-    ""
+    " Я пытираю пот и вхожу на кухню."
 
 # game/scenario/sc_en.rpy:1076
 translate russian s9_76b2fe88_2:
@@ -3104,31 +3104,31 @@ translate russian s9_76b2fe88_2:
 translate russian s9_23cbaa25:
 
     # "\"What is it, Senpai?\""
-    ""
+    "\"Что такое, Семпай?\""
 
 # game/scenario/sc_en.rpy:1079
 translate russian s9_40313f89:
 
     # "\"Well, I just didn't know how much you would eat for breakfast.{w} You don't seem to not eat anything in particular, but you also don't eat too much, do you?\""
-    ""
+    "\"Ну, я просто не знаю как мого ты ешь на завтрак.{w} Не похоже, что ты воротишь нос от чего-то необычного, но ты не ешь слишком много, не так ли?\""
 
 # game/scenario/sc_en.rpy:1080
 translate russian s9_e959a26f:
 
     # "\"Ah, not really|{w} I don't really eat that little, either|\""
-    ""
+    "\"А, не совсем,{w} на самом деле я не так уж и мало ем.\""
 
 # game/scenario/sc_en.rpy:1081
 translate russian s9_f39fc307:
 
     # " Her consideration is welcome right now."
-    ""
+    " Сейчас она соображает в верном направлении."
 
 # game/scenario/sc_en.rpy:1082
 translate russian s9_ba477fda:
 
     # " I don't want to waste food that Senpai's prepared, so I'll just get a small amount."
-    ""
+    " Я не хочу переводить еду, которую приготовила Семпай, так что я просто \[возьму немного\]."
 
 # game/scenario/sc_en.rpy:1083
 translate russian s9_ebbd24de:
@@ -3136,25 +3136,25 @@ translate russian s9_ebbd24de:
     # nvl clear
     # "\"I don't think I can eat too much for breakfast.{w} Please give me half a person's serving.\""
     nvl clear
-    ""
+    "\"Не думаю, что смогу съесть слишком много на завтрак.{w} Пожалуйста дай мне только половину порции.\""
 
 # game/scenario/sc_en.rpy:1085
 translate russian s9_88936310:
 
     # "\"Okay, then I'll do that.\""
-    ""
+    "\"Ладно, тогда так и сделаю.\""
 
 # game/scenario/sc_en.rpy:1086
 translate russian s9_78dce1b2:
 
     # " She smiles while nodding and churns the food on the stove."
-    ""
+    " Кивая, она улыбается и перемешивает еду на плите."
 
 # game/scenario/sc_en.rpy:1087
 translate russian s9_b01c389c:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:1088
 translate russian s9_d51a2e19:
@@ -3162,31 +3162,31 @@ translate russian s9_d51a2e19:
     # nvl clear
     # " I catch myself unconsciously going limp after seeing Senpai in an apron cooking breakfast."
     nvl clear
-    ""
+    " Я ловлю себя на том, что бессознательно обмякаю, увидев Сэмпай в фартуке, готовящую завтрак."
 
 # game/scenario/sc_en.rpy:1090
 translate russian s9_f262be6d:
 
     # " This is a great blessing and happiness."
-    ""
+    " Это \[великое благословение\] и счастье."
 
 # game/scenario/sc_en.rpy:1091
 translate russian s9_b445995d:
 
     # " A person who prepares breakfast with a smiling face."
-    ""
+    " Человек, который готовит завтрак с улыбающимся лицом."
 
 # game/scenario/sc_en.rpy:1092
 translate russian s9_f5898829:
 
     # " The table that emanates the smell of breakfast."
-    ""
+    " Стол, от которого исходит запах завтрака."
 
 # game/scenario/sc_en.rpy:1093
 translate russian s9_40c70ed7:
 
     # " It's too bad that I'm not hungry right now, but this spicy aroma|"
-    ""
+    " Плохо, что я сейчас не голоден, но этот пряный аромат..."
 
 # game/scenario/sc_en.rpy:1094
 translate russian s9_76b2fe88_3:
@@ -3198,7 +3198,7 @@ translate russian s9_76b2fe88_3:
 translate russian s9_9397760f:
 
     # "------Wait| spice?"
-    ""
+    "------Стоп, пряный?"
 
 # game/scenario/sc_en.rpy:1098
 translate russian s9_76b2fe88_4:
@@ -3210,55 +3210,55 @@ translate russian s9_76b2fe88_4:
 translate russian s9_81465f22:
 
     # "\"Hold on| wait a sec|\""
-    ""
+    "\"Постой, подожди секунду!\""
 
 # game/scenario/sc_en.rpy:1101
 translate russian s9_11f35160:
 
     # " I realize now that I was daydreaming a ridiculous dream."
-    ""
+    " Теперь я понимаю, что мне \[приснился нелепый сон наяву\]."
 
 # game/scenario/sc_en.rpy:1102
 translate russian s9_4c203e16:
 
     # "\"Hey, Senpai|\""
-    ""
+    "\"Эй, Семпай\""
 
 # game/scenario/sc_en.rpy:1103
 translate russian s9_a0db6f3c:
 
     # " I call Senpai who happily tastes the soup from the bowl."
-    ""
+    " Я окликнул Семпай, которая счасливо пробовала суп из миски."
 
 # game/scenario/sc_en.rpy:1104
 translate russian s9_b983e30d:
 
     # "\"Yes?{w} Something wrong, Tohno-kun?\""
-    ""
+    "\"Да?{w} Что-то не так, Тоно-кун?\""
 
 # game/scenario/sc_en.rpy:1105
 translate russian s9_3a2435f6:
 
     # "\"That's|{w} I forgot to say, but in the morning my body's not stable.\""
-    ""
+    "\"\[Это\],{w} я забыл сказать, что по утрам моё тело \[не стабильно\].\""
 
 # game/scenario/sc_en.rpy:1106
 translate russian s9_3bf521bb:
 
     # "\"I know. But today you look well.\""
-    ""
+    "\"Я знаю. Но сегодня ты выглядишь хорошо.\""
 
 # game/scenario/sc_en.rpy:1107
 translate russian s9_8d991e66:
 
     # " She smiles widely."
-    ""
+    " Она широко улыбается."
 
 # game/scenario/sc_en.rpy:1108
 translate russian s9_e4f0d2a8:
 
     # " Uuuh| if she smiles like that it becomes difficult for me to tell her what I was just going to|"
-    ""
+    " Ууух, если она так улыбается, то становится сложнее сказать ей, что я только что собирался."
 
 # game/scenario/sc_en.rpy:1109
 translate russian s9_a13c7105:
@@ -3266,31 +3266,31 @@ translate russian s9_a13c7105:
     # nvl clear
     # "\"So, I was just going to say|{w} I can eat a normal breakfast, but anything that stimulates the taste buds is kinda| bad|{w} How do I say this|{w} I can only eat Japanese food.\""
     nvl clear
-    ""
+    "\"Я просто собирался сказать,{w} что могу съесть обычный завтрак, но все, что стимулирует вкусовые рецепторы, в некотором роде - вредно.{w} Как бы это сказать.{w} Я могу есть только Японскую еду.\""
 
 # game/scenario/sc_en.rpy:1111
 translate russian s9_a00bdeb6:
 
     # "\"?\""
-    ""
+    "\"?\""
 
 # game/scenario/sc_en.rpy:1112
 translate russian s9_41cbd38e:
 
     # " She tilts her head questioningly."
-    ""
+    " Она вопросительно наклоняет голову."
 
 # game/scenario/sc_en.rpy:1113
 translate russian s9_c1ec0bdb:
 
     # "\"Well, I can eat non-Japanese food, but Japanese would probably be the best.{w} I definitey can't take anything spicy or greasy|\""
-    ""
+    "\"Вообще, я могу есть не Японскую еду, но Япоская, вероятно, была бы лучше всего.{w} Но я точно не могу есть ничего острого или жирного.\""
 
 # game/scenario/sc_en.rpy:1114
 translate russian s9_40df7121:
 
     # "\"Haa?{w} What do you want to say, Tohno-kun?\""
-    ""
+    "\"Ааа?{w} Что ты хочешь сказать, Тоно-кун?\""
 
 # game/scenario/sc_en.rpy:1115
 translate russian s9_91e9dfee:
@@ -3298,25 +3298,25 @@ translate russian s9_91e9dfee:
     # nvl clear
     # "\"So|{w} what I'm saying is that I don't like curry for breakfast|\""
     nvl clear
-    ""
+    "\"\[Ну\],{w} я хочу сказать, что не люблю карри на завтрак.\""
 
 # game/scenario/sc_en.rpy:1121
 translate russian s9_f88f4416:
 
     # "\"------------\""
-    ""
+    "\"------------\""
 
 # game/scenario/sc_en.rpy:1122
 translate russian s9_b5390663:
 
     # " Whoosh|"
-    ""
+    " \[Свист\]"
 
 # game/scenario/sc_en.rpy:1123
 translate russian s9_e2b1c92a:
 
     # " The air in the kitchen freezes solid."
-    ""
+    " Воздух на кухне намертво застывает."
 
 # game/scenario/sc_en.rpy:1124
 translate russian s9_a87f2979:
@@ -3324,25 +3324,25 @@ translate russian s9_a87f2979:
     # nvl clear
     # "\"Tohno-kun|{w} that means|\""
     nvl clear
-    ""
+    "\"Тоно-кун,{w} это значит,\""
 
 # game/scenario/sc_en.rpy:1126
 translate russian s9_7094e250:
 
     # "\"Ah, no, no!{w} I didn't say I don't like your curry!{w} And I'm definitely not looking down on curry!{w} It's just that eating curry at a time like this would probably upset my stomach|{w} or something|\""
-    ""
+    "\"А, нет, нет!{w} Я не говорю, что не люблю карри!{w} Я определённо \[не смотрю низко\] на карри!{w} Просто употребление карри в такое время, скорее всего, расстроит мой желудок,{w} или что-то в этом роде.\""
 
 # game/scenario/sc_en.rpy:1132
 translate russian s9_f88f4416_1:
 
     # "\"------------\""
-    ""
+    "\"------------\""
 
 # game/scenario/sc_en.rpy:1133
 translate russian s9_60d8b5e1:
 
     # " Heeeeeee!!!!{w} She's definitely mad!"
-    ""
+    " Хеееееее!!!!{w} Она сошла с ума!"
 
 # game/scenario/sc_en.rpy:1134
 translate russian s9_d79dc5f2:
@@ -3350,31 +3350,31 @@ translate russian s9_d79dc5f2:
     # nvl clear
     # "\"Tohno-kun|\""
     nvl clear
-    ""
+    "\"Тоно-кун!\""
 
 # game/scenario/sc_en.rpy:1136
 translate russian s9_b4c0c408:
 
     # "\"Yes, yes!{w} I'll eat it!{w} I like curry that I don't like!"
-    ""
+    "\"Да, да!{w} Я съем это!{w} \[Мне нравится карри, которое мне не нравится\]!"
 
 # game/scenario/sc_en.rpy:1137
 translate russian s9_98751b81:
 
     # " What do I have to hide?{w} As you can see, I came to eat curry!\""
-    ""
+    " Что мне скрывать?{w} Как ты видишь, я пришёл поесть карри!\""
 
 # game/scenario/sc_en.rpy:1138
 translate russian s9_a3ba5a8f:
 
     # "\"Don't say such strange things.{w} To eat curry for breakfast| that sounds like an Indian!{w} Did you see me that way, Tohno-kun?\""
-    ""
+    "\"Не говори таких странных вещей.{w} Есть карри на завтрак звучит как что-то Индиское!{w} \[Ты представляешь меня такой\], Тоно-кун?\""
 
 # game/scenario/sc_en.rpy:1139
 translate russian s9_ecd6b1fe:
 
     # " She seems a little upset."
-    ""
+    " Она выглядит немного расстроенной."
 
 # game/scenario/sc_en.rpy:1140
 translate russian s9_76b2fe88_5:
@@ -3386,43 +3386,43 @@ translate russian s9_76b2fe88_5:
 translate russian s9_e30b6e36:
 
     # "\"Eh|?\""
-    ""
+    "\"Э?\""
 
 # game/scenario/sc_en.rpy:1143
 translate russian s9_076e4834:
 
     # "\"Today's breakfast is bread, bean stalk soup and salad.{w} A normal breakfast, I would say.\""
-    ""
+    "\"Сегодняшний завтрак - хлеб, бобовый суп и салат.{w} Обычный завтрак, я бы сказала.\""
 
 # game/scenario/sc_en.rpy:1144
 translate russian s9_012c9bf6:
 
     # "\"Eh|{w} EH?\""
-    ""
+    "\"Э?{w} Э?\""
 
 # game/scenario/sc_en.rpy:1145
 translate russian s9_e191305c:
 
     # " That's strange."
-    ""
+    " Это странно."
 
 # game/scenario/sc_en.rpy:1146
 translate russian s9_70a693f0:
 
     # " Because|{w} Senpai is|{w} Senpai|"
-    ""
+    " Потому как{w} Семпай это{w} Семпай."
 
 # game/scenario/sc_en.rpy:1147
 translate russian s9_b262997f:
 
     # " Ciel-senpai equates to curry, and curry equates to Ciel-senpai."
-    ""
+    " Сиель-семпай отождествляется с карри, а карри отождествляется с Сиель-семпай."
 
 # game/scenario/sc_en.rpy:1148
 translate russian s9_7cb0507f:
 
     # " No| no curry means no Senpai!{w} I can't think of Senpai wanting bread!"
-    ""
+    " Нет карри - значит нет Семпай!{w} Не могу представить, чтобы Семпай \[захотела хлеба\]!"
 
 # game/scenario/sc_en.rpy:1149
 translate russian s9_72505271:
@@ -3430,37 +3430,37 @@ translate russian s9_72505271:
     # nvl clear
     # "\"I|{w} I get it|{w} you placate me like this and then later it turns out to be curry bread, right?!\""
     nvl clear
-    ""
+    "\"Я,{w} я понял,{w} ты вот так успокаиваешь меня, а потом окажется, что это хлеб с карри, верно?!\""
 
 # game/scenario/sc_en.rpy:1151
 translate russian s9_bed69206:
 
     # "\"Unfortunately, it's not curry bread, either.{w} It would be a great mistake to eat curry for breakfast!\""
-    ""
+    "\"К сожалению это тоже не хлеб с карри.{w} Было бы большой ошибкой есть карри на завтрак!\""
 
 # game/scenario/sc_en.rpy:1152
 translate russian s9_a4edce4e:
 
     # " She hands out the bean stalk soup."
-    ""
+    " Она расставляет бобовый суп."
 
 # game/scenario/sc_en.rpy:1153
 translate russian s9_8ebdea1e:
 
     # "\"Tohno-kun, please get the marmalade and margarine from the refrigerator.{w} And we'll have our breakfast.\""
-    ""
+    "\"Тоно-кун, пожалуйста достань мармелад и маргарин из холодильника.{w} И мы можем начинать завтракать.\""
 
 # game/scenario/sc_en.rpy:1154
 translate russian s9_684b86ce:
 
     # " Senpai prepares the table for two."
-    ""
+    " Семпай накрывает стол на двоих."
 
 # game/scenario/sc_en.rpy:1155
 translate russian s9_5133bc1d:
 
     # " She places the wares neatly and refreshingly.{w} The food looks like something even I could eat."
-    ""
+    " Она аккуратно и \[свежо\] расставляет приборы.{w} Еда выглядит так, будто даже я мог бы её съесть."
 
 # game/scenario/sc_en.rpy:1156
 translate russian s9_e6a27ca0:
@@ -3468,31 +3468,31 @@ translate russian s9_e6a27ca0:
     # nvl clear
     # "\"Wow| it really isn't curry!\""
     nvl clear
-    ""
+    "\"Вау, это и правда не карри!\""
 
 # game/scenario/sc_en.rpy:1158
 translate russian s9_a08bfac9:
 
     # "\"Of course!{w} It's usual to leave the best food for dinner, isn't it?{w} It'd be profane to have curry rice for anything other than dinner!{w} Really!\""
-    ""
+    "\"Конечно!{w} Обычно лучшие блюда оставляют на ужин, разве нет?{w} Было бы кощунством есть рис с карри на что-либо, кроме ужина!{w} \[Воистину\]!"
 
 # game/scenario/sc_en.rpy:1159
 translate russian s9_3eeff8ec:
 
     # " She really looks a bit offended."
-    ""
+    " Она действительно выглядит немного обиженной."
 
 # game/scenario/sc_en.rpy:1160
 translate russian s9_25d39436:
 
     # "\"Ah|{w} is that the reason|\""
-    ""
+    "\"А,{w} вот в чём дело.\""
 
 # game/scenario/sc_en.rpy:1161
 translate russian s9_ccef9700:
 
     # " For some reason I accept it as it is."
-    ""
+    " Почему-то я принял это как есть."
 
 # game/scenario/sc_en.rpy:1162
 translate russian s9_766ebc30:
@@ -3500,31 +3500,31 @@ translate russian s9_766ebc30:
     # nvl clear
     # "\"Senpai, you can really restrain yourself from indulging yourself to enjoy things more.\""
     nvl clear
-    ""
+    "\"Семпай, ты действительно можешь сдерживать себя от того, чтобы потакать себе, чтобы получать больше удовольствия.\""
 
 # game/scenario/sc_en.rpy:1164
 translate russian s9_2f266e27:
 
     # " I get the margarine and marmalade from the refrigerator."
-    ""
+    " Я достал маргарин и мармелад из холодильника."
 
 # game/scenario/sc_en.rpy:1165
 translate russian s9_c21dea79:
 
     # " I'm the opposite.{w} Senpai puts an egg in the stewpot."
-    ""
+    " Я - полная противоположность.{w} Семпай кладёт яйца в кастрюлю."
 
 # game/scenario/sc_en.rpy:1166
 translate russian s9_e1cb52cf:
 
     # "\"Mmm?{w} Is that so?{w} I didn't really think about it much, either.\""
-    ""
+    "\"Ммм?{w} Это так?{w} Я даже особо не задумывалась об этом.\""
 
 # game/scenario/sc_en.rpy:1167
 translate russian s9_7d8a2355:
 
     # " Curry gets transported from the stewpot to the plate."
-    ""
+    " Карри перемещается из кастрюли в тарелку."
 
 # game/scenario/sc_en.rpy:1168
 translate russian s9_e0a38099:
@@ -3532,19 +3532,19 @@ translate russian s9_e0a38099:
     # nvl clear
     # "\"Senpai| what did you just put on the plate?\""
     nvl clear
-    ""
+    "\"Семпай, что ты только что положила на тарелку?\""
 
 # game/scenario/sc_en.rpy:1170
 translate russian s9_1339e6bc:
 
     # "\"Ah, this isn't Tohno-kun's.{w} It's mine, so don't worry.{w} Eating a night old ruro bread makes me feel like I can go the whole day without eating anything else!\""
-    ""
+    "\"А, не для Тоно-куна.{w} Это мне, так что не волнуйся.{w} \[Съедая хлеб руро лежавший с ночи, я чувствую, что могу целый день ничего больше не есть\]!\""
 
 # game/scenario/sc_en.rpy:1171
 translate russian s9_a49891ee:
 
     # " Is that so|{w} is that why the kitchen smells of curry?"
-    ""
+    " Вот как,{w} вот почему на кухне такой запах карри?"
 
 # game/scenario/sc_en.rpy:1172
 translate russian s9_6c04c340:
@@ -3552,25 +3552,25 @@ translate russian s9_6c04c340:
     # nvl clear
     # "\"Uh|{w} Senpai|{w} weren't you going to put off on eating curry until dinner?\""
     nvl clear
-    ""
+    "\"Ух,{w} Семпай,{w} разве ты не собиралась отложить карри до ужина?\""
 
 # game/scenario/sc_en.rpy:1174
 translate russian s9_4356d5c8:
 
     # " I knew the answer, but I still asked."
-    ""
+    " Я знал ответ, но всё равно спросил."
 
 # game/scenario/sc_en.rpy:1175
 translate russian s9_761d6ea9:
 
     # "\"Hmm? It's bread with curry, not curry with bread.\""
-    ""
+    "\"Хм? Это хлеб с карри, а не карри с хлебом.\""
 
 # game/scenario/sc_en.rpy:1176
 translate russian s9_4b9bf8a1:
 
     # "\"Ah|{w} I thought as much|{w} I thought you were going to say that.\""
-    ""
+    "\"А,{w} я так и думал,{w} я так и думал, что ты это скажешь.\""
 
 # game/scenario/sc_en.rpy:1177
 translate russian s9_76b2fe88_6:
@@ -3582,31 +3582,31 @@ translate russian s9_76b2fe88_6:
 translate russian s9_182084ca:
 
     # " I rest a bit after breakfast and then start on my way to school."
-    ""
+    " Я немного отдохнул после завтрака и начал собираться в школу."
 
 # game/scenario/sc_en.rpy:1187
 translate russian s9_1c14b65b:
 
     # "\"Hmm| if we go now, then it'll be third period.{w} Eh, we took a lot of time.\""
-    ""
+    "\"Хмм, если мы пойдём сейчас, тогда успеем на третий урок.{w} Эх, у нас ушло много времени.\""
 
 # game/scenario/sc_en.rpy:1188
 translate russian s9_998f72d2:
 
     # "\"Yes, but, isn't it okay to do this from time to time?\""
-    ""
+    "\"Да, но разве это не нормально - делать это время от времени?\""
 
 # game/scenario/sc_en.rpy:1191
 translate russian s9_928954ba:
 
     # "\"Hehe, you're right.{w} It felt like a family, so I just relaxed a bit.\""
-    ""
+    "\"Хехе, ты права.{w} \[Мы чувствовали себя как одна семья\], так что я просто немного расслабился.\""
 
 # game/scenario/sc_en.rpy:1192
 translate russian s9_3627735f:
 
     # " Uuuuh|{w} I don't know whether she knows or not, but what she said had meaning."
-    ""
+    " Уууух,{w} я не знаю, знает она или нет, но то, что она сказала, имело смысл."
 
 # game/scenario/sc_en.rpy:1193
 translate russian s9_5c8ecd4f:
@@ -3614,31 +3614,31 @@ translate russian s9_5c8ecd4f:
     # nvl clear
     # "\"Then, shall we go?{w} We'll split up at school, but on the way there we should be able to be together.\""
     nvl clear
-    ""
+    "\"Тогда, может, пойдём?{w} Мы расстанемся в школе, но по дороге туда мы можем быть вместе.\""
 
 # game/scenario/sc_en.rpy:1197
 translate russian s9_55be0f58:
 
     # "\"Okay.{w} Then let's head out, Shiki-kun.\""
-    ""
+    "\"Хорошо.{w} Тогда отправляемся, Тоно-кун.\""
 
 # game/scenario/sc_en.rpy:1205
 translate russian s9_322cf920:
 
     # " Calling me Shiki-kun instead of Tohno-kun, she starts heading out."
-    ""
+    " Называя меня Шики-кун вместо Тоно-кун, она направляется к выходу"
 
 # game/scenario/sc_en.rpy:1206
 translate russian s9_f88f4416_2:
 
     # "\"------------\""
-    ""
+    "\"------------\""
 
 # game/scenario/sc_en.rpy:1207
 translate russian s9_b053a72b:
 
     # " I can't even answer coolly and just stand there dumbfounded."
-    ""
+    " Я даже не могу спокойно ответить и просто ошеломлённо стою."
 
 # game/scenario/sc_en.rpy:1208
 translate russian s9_76b2fe88_7:
