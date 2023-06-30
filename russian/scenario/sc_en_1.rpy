@@ -3650,49 +3650,49 @@ translate russian s9_76b2fe88_7:
 translate russian s10_9720be8c:
 
     # "This scene is \"School - Morning: With Akiha.\"{nw}"
-    ""
+    "Эта сцена - \"Школа - Утро: с Акихой.\"{nw}"
 
 # game/scenario/sc_en.rpy:1226
 translate russian s10_5a857b50:
 
     # "Would you like to skip?{nw}"
-    ""
+    "Хотите пропустить?{nw}"
 
 # game/scenario/sc_en.rpy:1227
 translate russian s10_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:1247
 translate russian s10_4b4cbb70:
 
     # "\"I'm tired of waiting!{w} I'm tired!{w} I'm going!{w} I'm going on ahead, Akiha!\""
-    ""
+    "\"Я устал ждать!{w} Я устал!{w} Я пошёл!{w} Я выхожу, Акиха!\""
 
 # game/scenario/sc_en.rpy:1248
 translate russian s10_8f7040cb:
 
     # " I shout to the second floor."
-    ""
+    "Кричу я на второй этаж."
 
 # game/scenario/sc_en.rpy:1249
 translate russian s10_f53e3541:
 
     # " A surprised voice."
-    ""
+    " Удивлённый голос."
 
 # game/scenario/sc_en.rpy:1250
 translate russian s10_91a02242:
 
     # "\"Wa, wait just a moment, Nii-san!{w} I'll be out right now!\""
-    ""
+    "\"Ва, подожди минутку, Нии-сан!{w} Я сейчас спущусь!\""
 
 # game/scenario/sc_en.rpy:1251
 translate russian s10_a116eac6:
 
     # " The sound of hurried footsteps comes from the second floor."
-    ""
+    " Звуки поспешных шагов раздались на втором этаже."
 
 # game/scenario/sc_en.rpy:1252
 translate russian s10_f2ac3e89:
@@ -3700,31 +3700,31 @@ translate russian s10_f2ac3e89:
     # nvl clear
     # " A long while after breakfast."
     nvl clear
-    ""
+    " Прошло много времени после завтрака"
 
 # game/scenario/sc_en.rpy:1254
 translate russian s10_24971ba7:
 
     # " I hurry Akiha who was up until now relaxedly drinking tea in the living room."
-    ""
+    " Я поторопил Акиху, которая до этого момента спокойно пила чай в гостиной."
 
 # game/scenario/sc_en.rpy:1255
 translate russian s10_c2d93ec9:
 
     # " I say to myself that Akiha deserves punishment for leisurely taking time instead of changing and smile a dark smile."
-    ""
+    " Я говорю себе, что Акиха заслуживает наказания за то, что не торопилась, вместо того чтобы переодеться, и улыбаюсь мрачной улыбкой."
 
 # game/scenario/sc_en.rpy:1256
 translate russian s10_8e772577:
 
     # " And within three short minutes Akiha comes down to the lobby."
-    ""
+    " Через три \[короткие\] минуты Акиха спустилась в холл."
 
 # game/scenario/sc_en.rpy:1257
 translate russian s10_b7b786e0:
 
     # " Really| she doesn't run even when she's short on time.{w} Her lifestyle really is different from mine."
-    ""
+    " И правда, она не спешит, даже если у неё мало времени.{w} Её образ жизни дествительно отличается от моего."
 
 # game/scenario/sc_en.rpy:1258
 translate russian s10_76b2fe88:
@@ -3736,37 +3736,37 @@ translate russian s10_76b2fe88:
 translate russian s10_a19cccf2:
 
     # "\"I'm sorry|{w} I made you wait.{w} How are we doing on time?\""
-    ""
+    "\"Я извиняюсь,{w} я заставила тебя ждать.{w} Сколько у нас времени?\""
 
 # game/scenario/sc_en.rpy:1263
 translate russian s10_8f05b950:
 
     # "\"Yeah, we still have about twenty minutes to blow.{w} So no worries.\""
-    ""
+    "\"Эмм, у нас в запасе есть ещё двадцать минут.{w} Так что не беспокойся.\""
 
 # game/scenario/sc_en.rpy:1264
 translate russian s10_528de25d:
 
     # " Akiha's troubled panting stops altogether."
-    ""
+    " \[Сбитое дыхание Акихи полностью прекращается\]."
 
 # game/scenario/sc_en.rpy:1268
 translate russian s10_a8192cdc:
 
     # "\"Nii-san| then you didn't have to say that you were going on ahead.\""
-    ""
+    "\"Нии-сан, тогда тебе не нужно было говорить, что ты выходишь.\""
 
 # game/scenario/sc_en.rpy:1269
 translate russian s10_15367f50:
 
-    # "\"I know, but I found it weird that someone like you would make others wait.{w} So I just had to.\""
-    ""
+    # "\"I know, but I found it weird that someone like you would make others wait.{w} So I just had to
+    "\"Я знаю, но мне показалось странным, что кто-то вроде тебя заставляет других ждать.{w} Так что мне пришлось так сделать.\""
 
 # game/scenario/sc_en.rpy:1270
 translate russian s10_8570ff58:
 
     # " I had to play a little trick on you.{w} I probably should keep that to myself."
-    ""
+    " Я решил немного подшутить над тобой.{w} Наверное мне не стоит говорить этого."
 
 # game/scenario/sc_en.rpy:1271
 translate russian s10_76b2fe88_1:
@@ -3778,19 +3778,19 @@ translate russian s10_76b2fe88_1:
 translate russian s10_b3fc022c:
 
     # "\"Nii-san, so what is it?\""
-    ""
+    "\"Нии-сан, так в чём дело?\""
 
 # game/scenario/sc_en.rpy:1275
 translate russian s10_797d79d5:
 
     # "\"Eh| I guess nothing beats going to school early.{w} So let's head on out together.\""
-    ""
+    "\"Э, \[я думаю, нет ничего лучше, чем выйти\] в школу пораньше.{w} Так что пошли вместе.\""
 
 # game/scenario/sc_en.rpy:1276
 translate russian s10_c3471582:
 
     # " I storm out with an upset Akiha."
-    ""
+    " Я выбегаю вместе с расстроенной Акихой."
 
 # game/scenario/sc_en.rpy:1277
 translate russian s10_76b2fe88_2:
@@ -3802,19 +3802,19 @@ translate russian s10_76b2fe88_2:
 translate russian s10_899262fb:
 
     # " We go downhill."
-    ""
+    " Мы спускаемся по склону."
 
 # game/scenario/sc_en.rpy:1284
 translate russian s10_985d6d98:
 
     # " Now that I think about it, we've been going to school together for a while now."
-    ""
+    " \[Теперь, когда я думаю об этом\], мы уже некоторое время ходим в школу вместе."
 
 # game/scenario/sc_en.rpy:1285
 translate russian s10_a0e07fdc:
 
     # " After Akiha transferred, we went to school together when I woke up in time.{w} Although that happens only about twice a week|"
-    ""
+    " После того, как Акиха перешла, мы ходим в школу вместе, когда я просыпаюсь вовремя.{w} Хотя обычно это происходит всего дважды в неделю."
 
 # game/scenario/sc_en.rpy:1286
 translate russian s10_c3a98c8a:
@@ -3822,37 +3822,37 @@ translate russian s10_c3a98c8a:
     # nvl clear
     # "\"------\""
     nvl clear
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:1288
 translate russian s10_273380ba:
 
     # " Stop."
-    ""
+    " Стоп."
 
 # game/scenario/sc_en.rpy:1289
 translate russian s10_daf36674:
 
     # " I stop after hitting a stone on the road."
-    ""
+    " Я остановился после удара о камень на дороге."
 
 # game/scenario/sc_en.rpy:1292
 translate russian s10_0e27530a:
 
     # "\"Nii-san, what is it?{w} You look like you've seen a ghost.\""
-    ""
+    "\"Нии-сан, что случилось?{w} Ты выглядишь так, будто призрака увидел.\""
 
 # game/scenario/sc_en.rpy:1293
 translate russian s10_6cb09322:
 
     # " Akiha looks at me from the side."
-    ""
+    " Акиха \[боком\] посмотрела на меня."
 
 # game/scenario/sc_en.rpy:1294
 translate russian s10_ad6b98b1:
 
     # " The scent from her black hair on her shoulder sways me a bit."
-    ""
+    " Аромат, исходящий от её черных волос на плече, немного завораживает меня"
 
 # game/scenario/sc_en.rpy:1295
 translate russian s10_7714d978:
@@ -3860,43 +3860,43 @@ translate russian s10_7714d978:
     # nvl clear
     # "\"Ah, hmm|{w} I feel like I went to school with you yesterday, too.\""
     nvl clear
-    ""
+    "\"А, хм,{w} Мне кажется я и вчера ходил с тобой в школу.\""
 
 # game/scenario/sc_en.rpy:1297
 translate russian s10_a1c57fa1:
 
     # " Akiha just smiles happily, as if she's happy to hear such a thing from me."
-    ""
+    " Акиха просто счастливо улыбнулась, как будто она счастлива слышать такое от меня."
 
 # game/scenario/sc_en.rpy:1300
 translate russian s10_c6e71cb0:
 
     # "\"You've been waking up early nowadays.{w} I find it really enjoyable that I can go to school with you.\""
-    ""
+    "\"В последнее время ты рано просыпаешься.{w} Мне действительно приятно, что я могу ходить с тобой в школу.\""
 
 # game/scenario/sc_en.rpy:1301
 translate russian s10_30a410b0:
 
     # "\"Uuuuh|\""
-    ""
+    "\"Уууух\""
 
 # game/scenario/sc_en.rpy:1302
 translate russian s10_21123581:
 
     # " If she says that to me so frankly, I really don't know what to say."
-    ""
+    " \[Если она говорит мне это так откровенно, я действительно не знаю, что сказать.\]"
 
 # game/scenario/sc_en.rpy:1303
 translate russian s10_7fbef32b:
 
     # "\"Oh| oh?{w} If you're happy, then I'm happy, too.\""
-    ""
+    "\"О, о?{w} Если ты счастлива, тогда я тоже счастлив.\""
 
 # game/scenario/sc_en.rpy:1304
 translate russian s10_c60dc40d:
 
     # " Maybe it's just my feeling, but I feel as if there is a trap today."
-    ""
+    " Может быть это просто моё воображение, но я чувствую, что \[это ловушка\]."
 
 # game/scenario/sc_en.rpy:1305
 translate russian s10_aeffd470:
@@ -3904,37 +3904,37 @@ translate russian s10_aeffd470:
     # nvl clear
     # "\"Ah, I know what you want to say.{w} There's nothing wrong happening at school and the mansion.{w} It's almost scary that these days are so peaceful.\""
     nvl clear
-    ""
+    "\"А, я знаю что ты хочешь сказать.{w} В школе и особняке \[не происходит\] ничего плохого.{w} Немного пугает, что эти дни такие мирные.\""
 
 # game/scenario/sc_en.rpy:1314
 translate russian s10_b01c389c:
 
     # "\"------\""
-    ""
+    "\"------\""
 
 # game/scenario/sc_en.rpy:1315
 translate russian s10_539338b0:
 
     # " Aah| that is true."
-    ""
+    "Аах, это правда."
 
 # game/scenario/sc_en.rpy:1316
 translate russian s10_71bc2d3a:
 
     # " I worry when happy things continue to happen.{w} I'm not afraid of painful times becoming more painful because of the happy times, but of happy times ending and going back to normal."
-    ""
+    " Я начинаю волноваться, \[когда счастливые времена продолжаются\].{w} Я боюсь не того, что плохие времена станут еще более болезненными из-за \[счастливых времен\], а того, что \[счастливые времена\] закончатся и все вернется на круги своя."
 
 # game/scenario/sc_en.rpy:1317
 translate russian s10_e852e0ad:
 
     # " A feeling of depression at the end of a festival, for example."
-    ""
+    " Например, чувство подавленности в конце фестиваля."
 
 # game/scenario/sc_en.rpy:1318
 translate russian s10_8a43c1ac:
 
     # " The happiest moment of life is the happiest| but it's also a flash.{w} I subconsciously fear it."
-    ""
+    " Самый счастливый момент в жизни не только счастливый, но и самый короткий.{w} Я подсознательно боюсь этого."
 
 # game/scenario/sc_en.rpy:1319
 translate russian s10_76b2fe88_3:
@@ -3946,13 +3946,13 @@ translate russian s10_76b2fe88_3:
 translate russian s10_57046d9c:
 
     # "\"But, it's okay.{w} Soon it'll be the cultural festival.{w} Happy times will continue.{w} And after the festival will be winter break.{w} We can all travel during the break.{w} And when we return it'll be around New Year's Day."
-    ""
+    "\"Но, это нормально.{w} Скоро будет культурный фестиваль.{w} \[Счастливые времена\] продолжатся.{w} А после фестиваля будут зимние каникулы.{w} Мы все сможем попутешествовать на каникулах.{w} А вернёмся мы уже под Новый Год."
 
 # game/scenario/sc_en.rpy:1323
 translate russian s10_6795c831:
 
     # " See, Nii-san?{w} If an important person is by your side, then happy times will continue.\""
-    ""
+    " Видишь, Нии-сан?{w} Если рядом с вами важный человек, то \[счастливые времена продолжатся\].\""
 
 # game/scenario/sc_en.rpy:1324
 translate russian s10_76b2fe88_4:
@@ -3964,25 +3964,25 @@ translate russian s10_76b2fe88_4:
 translate russian s10_ffbc8e35:
 
     # " Akiha walks ahead with light steps."
-    ""
+    " Акиха, с лёгкими шагами, идёт впереди."
 
 # game/scenario/sc_en.rpy:1333
 translate russian s10_e49b457c:
 
     # "\"Yeah| you're definitely right, Akiha.\""
-    ""
+    "\"Да, ты \[действительно права\], Акиха.\""
 
 # game/scenario/sc_en.rpy:1334
 translate russian s10_df759ff3:
 
     # " Even my small worries are no match for Akiha."
-    ""
+    " Даже мои маленькие заботы не идут ни в какое сравнение с Акихой."
 
 # game/scenario/sc_en.rpy:1335
 translate russian s10_ee049944:
 
     # " I have Akiha, Hisui and Kohaku-san.{w} I have a home to return to, so I have nothing to worry about."
-    ""
+    " У меня есть Акиха, Хисуи и Кохаку-сан.{w} У меня есть дом, в который можно вернуться, так что не о чем беспокоиться."
 
 # game/scenario/sc_en.rpy:1336
 translate russian s10_76b2fe88_5:
@@ -3994,13 +3994,13 @@ translate russian s10_76b2fe88_5:
 translate russian s10_42ceb2ee:
 
     # "\"Then, let's meet during lunch break!\""
-    ""
+    "\"Тогда, увидимся на обеденном перерыве!\""
 
 # game/scenario/sc_en.rpy:1351
 translate russian s10_e0968205:
 
     # " Akiha breaks off and happily goes to the freshman section."
-    ""
+    " Акиха прерывается и радостно направляется в секцию для первокурсников."
 
 # game/scenario/sc_en.rpy:1352
 translate russian s10_76b2fe88_6:
