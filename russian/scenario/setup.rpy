@@ -28,49 +28,49 @@ translate russian left_phase_76b2fe88:
 translate russian endofplay_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:993
 translate russian endofplay_0af6a5fa_1:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:994
 translate russian endofplay_0af6a5fa_2:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:995
 translate russian endofplay_0af6a5fa_3:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:996
 translate russian endofplay_0af6a5fa_4:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:997
 translate russian endofplay_0af6a5fa_5:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:998
 translate russian endofplay_0af6a5fa_6:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:999
 translate russian endofplay_6f3c3a0d:
 
     # "　　　　　ｒｅｐｅａｔ　ａｇａｉｎ・・・{nw}"
-    ""
+    "　　　　　Повторите снова・・・{nw}"
 
 # game/scenario/setup.rpy:1000
 translate russian endofplay_0ae9bcd0:
@@ -88,19 +88,19 @@ translate russian endofplay_76b2fe88:
 translate russian loaded_d5a33c1c:
 
     # " Welcome to the English patch of Kagetsu Tohya."
-    ""
+    " Добро пожаловать в Русский патч Kagetsu Tohya."
 
 # game/scenario/setup.rpy:2948
 translate russian loaded_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:2949
 translate russian loaded_4e8c0550:
 
     # " Before we give the word to TYPE-MOON, a few things regarding this translation."
-    ""
+    " Прежде чем, мы дадим слово TYPE-MOON, несколько моментов касаемо этого перевода."
 
 # game/scenario/setup.rpy:2950
 translate russian loaded_d12f19c2:
@@ -108,31 +108,31 @@ translate russian loaded_d12f19c2:
     # nvl clear
     # " First and most importantly, do not use this patch with illegal copies of Kagetsu Tohya, and do not distribute it alongside any illegal copies of the game or parts thereof."
     nvl clear
-    ""
+    " Первое и самое главное: не используйте этот патч с нелегальными копиями Kagetsu Tohya и не распространяйте его вместе с любыми нелегальными копиями игры или ее частей."
 
 # game/scenario/setup.rpy:2952
 translate russian loaded_0af6a5fa_1:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:2953
 translate russian loaded_1f09eebd:
 
     # " This is a fan translation, made by fans for fans.{w} Please do not charge money for it."
-    ""
+    " Это фанатский перевод, сделанный фанатами для фанатов.{w} Пожалуйста, не берите за него деньги."
 
 # game/scenario/setup.rpy:2954
 translate russian loaded_0af6a5fa_2:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/setup.rpy:2955
 translate russian loaded_af2e0e3d:
 
     # " Finally, this software is distributed 'as is' and without any guarantees, technically or content-wise, whatsoever."
-    ""
+    " Наконец, данное программное обеспечение распространяется 'как есть' и без каких-либо гарантий, как технических, так и содержательных."
 
 # game/scenario/setup.rpy:2956
 translate russian loaded_c9f08439:
