@@ -1,4 +1,5 @@
 /russian/common.rpyc
+/russian/setup/change_font.rpyc
 /russian/setup/gallery.rpyc
 /russian/setup/options.rpyc
 /russian/setup/save_load.rpyc
