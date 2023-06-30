@@ -4012,49 +4012,49 @@ translate russian s10_76b2fe88_6:
 translate russian s11_8caec6cf:
 
     # "This scene is \"School - Morning: Preparations.\"{nw}"
-    ""
+    "Эта сцена - \"Школа - Утро: \[Подготовка\].\"{nw}"
 
 # game/scenario/sc_en.rpy:1367
 translate russian s11_5a857b50:
 
     # "Would you like to skip?{nw}"
-    ""
+    "Хотите пропустить?{nw}"
 
 # game/scenario/sc_en.rpy:1368
 translate russian s11_0af6a5fa:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:1386
 translate russian s11_a266c98e:
 
     # " But even if I decide to go to school, I have two choices|"
-    ""
+    " Но даже если я пойду в школу у меня есть два варианта:"
 
 # game/scenario/sc_en.rpy:1387
 translate russian s11_d2cf607f:
 
     # " I can go with Akiha, or go alone hoping to meet someone new."
-    ""
+    " Я могу пойти с Акихой, или пойти один, надеясь повстречать кого-то нового."
 
 # game/scenario/sc_en.rpy:1388
 translate russian s11_86d2796d:
 
     # "\"If I'm with Akiha, then I definitely won't meet a new person|\""
-    ""
+    "\"Если я с Акихой, то я определённо не встречу \[нового человека\]\""
 
 # game/scenario/sc_en.rpy:1389
 translate russian s11_b29c6157:
 
     # " Then, what should I do?{nw}"
-    ""
+    " Тогда, что мне делать?{nw}"
 
 # game/scenario/sc_en.rpy:1390
 translate russian s11_0af6a5fa_1:
 
     # "{fast}{nw}"
-    ""
+    "{fast}{nw}"
 
 # game/scenario/sc_en.rpy:1402
 translate russian s12_0f2816ea:
