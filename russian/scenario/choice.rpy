@@ -70,7 +70,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:173
     old " 1. I'll stop by the Tea Ceremony Club room."
-    new " 1. Я зайду в комнату клуба чайных церемоний."
+    new " 1. Я зайду в комнату Чайного кружка."
 
     # game/scenario/choice.rpy:173
     old " 2. I'll go straight to class."
@@ -82,11 +82,11 @@ translate russian strings:
 
     # game/scenario/choice.rpy:240
     old " 1. Eat at the cafeteria!"
-    new " 1. Поем в кафетерии!"
+    new " 1. Поем в столовой!"
 
     # game/scenario/choice.rpy:240
     old " 2. Steal some from Senpai in the tea room!"
-    new " 2. Украду немного у Сэнпай в чайной комнате!"
+    new " 2. Украду немного у Семпай в чайной комнате!"
 
     # game/scenario/choice.rpy:240
     old " 3. Eat peacefully in the courtyard!"
@@ -158,7 +158,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:644
     old " 1. The murder cases that have been happening."
-    new " 1. Случаи убийств которые происходят"
+    new " 1. Случаи убийств, которые происходят."
 
     # game/scenario/choice.rpy:644
     old " 2. The hallucinations of the end of the world."
@@ -170,7 +170,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:655
     old " 4. Extermination of the cat demon in the detached building."
-    new " 4. Уничтожить кошачьего демона в соседнем здании."
+    new " 4. Уничтожить демона-кота в отдельном здании."
 
     # game/scenario/choice.rpy:668
     old " 4. Taking a stroll on the night streets."
@@ -206,7 +206,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:862
     old " 4. Could be Hisui."
-    new " 4. Это может быть Хисуи.
+    new " 4. Это может быть Хисуи."
 
     # game/scenario/choice.rpy:862
     old " 5. Maybe Kohaku-san."
@@ -234,15 +234,15 @@ translate russian strings:
 
     # game/scenario/choice.rpy:947
     old " 3. Was it| the athletic festival?"
-    new " 3. Это был спортивный фестиваль?"
+    new " 3. Сегодня спортивный фестиваль?"
 
     # game/scenario/choice.rpy:958
     old " 2. Was it| the athletic festival?"
-    new " 2. Это был спортивный фестиваль?"
+    new " 2. Сегодня спортивный фестиваль?"
 
     # game/scenario/choice.rpy:967
     old " 1. Runaway Tea House 'Low Kick.'"
-    new " 1. Чайный домик 'Лоу-Кик.'"
+    new " 1. Чайный домик 'Лоу-Кик'."
 
     # game/scenario/choice.rpy:967
     old " 2. Costume Rental and Photography 'Marble Phantasm.'"
@@ -319,7 +319,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1243
     old " 1. || The neck||!"
-    new " 1. || Шея||!"
+    new " 1. Шея!!!"
 
     # game/scenario/choice.rpy:1276
     old " 1. Akiha's nap has to end!"
@@ -327,15 +327,15 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1276
     old " 2. || No, wait| disturbing a nap isn't good."
-    new " 2. || Нет, подожди| мешать спать нехорошо."
+    new " 2. Нет, подожди, мешать спать нехорошо."
 
     # game/scenario/choice.rpy:1327
     old " 1. || I gaze at the blood on my finger."
-    new " 1. || Я смотрю на кровь на своём пальце."
+    new " 1. Я смотрю на кровь на своём пальце."
 
     # game/scenario/choice.rpy:1327
     old " 2. || I shake my head uneasily."
-    new " 2. || Я беспокойно качаю головой."
+    new " 2. Я беспокойно качаю головой."
 
     # game/scenario/choice.rpy:1414
     old " 1. Sleep in my room."
@@ -367,7 +367,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1456
     old " 2. Maybe I'd rather not|?"
-    new " 2. Может, лучше не надо|?"
+    new " 2. Может, лучше не надо?"
 
     # game/scenario/choice.rpy:1629
     old " 1. I'll go out to eat!"
@@ -387,7 +387,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1669
     old " 3. Barbecue at Dai Teito in the neighbouring town."
-    new " 3. Барбекю в ресторане Dai Teilo в соседнем городе."
+    new " 3. Барбекю в ресторане Даи Тейло в соседнем городе."
 
     # game/scenario/choice.rpy:1742
     old " 1. Arcueid's place."
@@ -399,19 +399,19 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1742
     old " 3. | the back alley."
-    new " 3. | в глухом переулке."
+    new " 3. Задний переулок."
 
     # game/scenario/choice.rpy:1771
     old " 1. || Go home quietly."
-    new " 1. || Спокойно возвращаться домой."
+    new " 1. Спокойно возвращаться домой."
 
     # game/scenario/choice.rpy:1771
     old " 2. || Check around the bed!"
-    new " 2. || Проверьте вокруг кровати!"
+    new " 2. Проверить вокруг кровати!"
 
     # game/scenario/choice.rpy:1771
     old " 3. || What about the inside of the closet?"
-    new " 3. || А как на счёт внутренней части шкафа?"
+    new " 3. А как на счёт внутренней части шкафа?"
 
     # game/scenario/choice.rpy:1806
     old " 1. I want to hear about the cat."
@@ -431,11 +431,11 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1857
     old " 2. || Excuse myself."
-    new " 2. || Прошу прощения."
+    new " 2. Прошу прощения."
 
     # game/scenario/choice.rpy:1857
     old " 3. || Check out Senpai's closet!"
-    new " 3. || Проверить шкаф сенпай!"
+    new " 3. Проверить шкаф Семпай!"
 
     # game/scenario/choice.rpy:1891
     old " 1. It's about the killer."
@@ -475,7 +475,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1976
     old " 5. Go to Ciel-senpai's place."
-    new " 5. Идти к дому Сиель-сенпай."
+    new " 5. Идти к дому Сиель-семпай."
 
     # game/scenario/choice.rpy:1991
     old " 5. Go to the Jinan Hospital."
@@ -483,7 +483,7 @@ translate russian strings:
 
     # game/scenario/choice.rpy:1991
     old " 6. Go to Ciel-senpai's place."
-    new " 6. Идти к дому Сиель-сенпай."
+    new " 6. Идти к дому Сиель-семпай."
 
     # game/scenario/choice.rpy:2017
     old " 1. Eeeht! Come what may!"
@@ -507,15 +507,15 @@ translate russian strings:
 
     # game/scenario/choice.rpy:2147
     old " 2. All right, I'll postpone the studying until tomorrow!"
-    new " 2. Хорошо, я отожу учёбу до завтра!"
+    new " 2. Хорошо, я отложу учёбу до завтра!"
 
     # game/scenario/choice.rpy:2164
     old " 1. || Run away without Senpai||"
-    new " 1. || Сбежать без сенпай||"
+    new " 1. Сбежать без Семпай"
 
     # game/scenario/choice.rpy:2164
     old " 2. || If one swallows poison, then one must finish it."
-    new " 2. || Если кто-то проглотил яд, то он должен покончить с ним."
+    new " 2. Если кто-то проглотил яд, то он должен покончить с ним."
 
     # game/scenario/choice.rpy:2192
     old " 1. I'll return to the mansion."
